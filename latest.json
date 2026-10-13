@@ -1,0 +1,9 @@
+{
+  "version": "0.14.0",
+  "tag": "v0.14.0",
+  "requiresConfirmation": false,
+  "notes": "Sicherheits- und Stabilitäts-Update. Updates kommen künftig aus einem öffentlichen, signierten Kanal statt per eingebautem GitHub-Token; installiert wird nur ein ZIP mit gültiger Signatur. Gelöschte Benutzer verlieren ihre Sitzung sofort, der Login sperrt nach 10 Fehlversuchen für 15 Minuten, und wer sich mit dem Standardpasswort anmeldet, muss sofort ein eigenes festlegen. Das Kontaktformular signiert Empfänger mit einem zufälligen Schlüssel pro Installation und lässt sich nicht mehr als Mail-Relay missbrauchen. SVG-Uploads mit Skripten oder externen Verweisen werden abgelehnt. Ein Rollback wird nicht mehr sofort durch dieselbe Version überschrieben, ein abgebrochenes Update legt alle Ordner zurück, und eine Backup-Wiederherstellung erreicht jetzt auch die Live-Seite.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/website-live-editor-releases/main/releases/v0.14.0.zip",
+  "sha256": "6a30b6958c6b32dc71d1fb1843923e1b5673e7ddf9150d00f691fcb4de8e9697",
+  "signature": "4MLYPoGy6AVcR8R7rubC7YwZWgdlY7IsBDdqDN22CXbKfiBlqSToQPHkq8V9o0ccBPwnHqqH1ZJMxaYWmDEwAQ=="
+}
