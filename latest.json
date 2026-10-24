@@ -1,9 +1,10 @@
 {
-  "version": "0.15.0",
-  "tag": "v0.15.0",
-  "requiresConfirmation": true,
-  "notes": "Bearbeiten direkt auf der Website: Nach dem Login unter /login erscheint die Website mit einer Leiste, Texte (mit Fett, Kursiv, Link), Bilder samt Alt-Text, Hintergrundbilder und Links werden direkt auf der Seite geändert, Bilder lassen sich hineinziehen, Team-, FAQ- und Blog-Einträge auf der Seite anlegen, bearbeiten, sortieren und löschen, und „Speichern“ übernimmt alles auf einmal. Der Verlauf zeigt frühere Stände verständlich und stellt sie wieder her. Plugins mit Datenbank laufen ohne Einrichtung auf SQLite (bestehende MySQL-Zugänge bleiben), jede Installation liefert eine vollständige Sicherung zum Abholen, und Backend und Login folgen dem LEWEB Design System. Wichtig nach dem Update: Alle müssen sich einmal neu anmelden, und ein Admin muss in der Verwaltung unter „Seiten“ einmal „Markierungen aktualisieren“ ausführen, sonst lassen sich bestehende Seiten nicht speichern.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/website-live-editor-releases/main/releases/v0.15.0.zip",
-  "sha256": "978fbc8440ee21e416aa2f5af8dab8a6086a84ac2e35f08b675a4eeb8a7ae93d",
-  "signature": "HSAF32+FLamcnMFoAsk4e5h+riejKsqVGcGq7fuOQI43Lqyj6i7buJtUYjCephvMDIhBpEyjJzSwKMaYKZUNDA=="
+  "version": "0.16.0",
+  "tag": "v0.16.0",
+  "requiresConfirmation": false,
+  "notes": "Updates werden jetzt mit OpenSSL statt mit sodium geprüft, damit sie auch auf Hostern ohne sodium ankommen. Die Systemprüfung zeigt dafür openssl statt sodium.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/website-live-editor-releases/main/releases/v0.16.0.zip",
+  "sha256": "e232017576613a78a896e178cc695b984a779f15d1e52242c8d4acee01a7b45c",
+  "signature": "85D/kePHSjlH+7GteMQqkAOgNapd8uWgUTGwEXS0bPjJs5y+q0Sjv3+lhVoTl6+d2d9fCyp1v0YDDu4n+EWNAw==",
+  "opensslSignature": "FtTejQzziBOxti1lfKcb3dh/DDEWrAqJXWMI3IHuYDHfojT/bgGTBrkwN0xx1n4dw6Ek/PqDnwGJZy+e2KT4h1/09CYQ022RfBPODVWDHaWnLFvxLbWd4jE8LCJ5URZCJhwt9JyMbHMbsvdRR2173iS3qsRyoeVYb4GLbxaDtiMeygGcNhMrIf+6OQ8Jr7pKerK2kKRiJlKvzD/CjyFz5ViyK3cb7H7BpoYn9cxv3DRNOpdikfvksoIJ7srTezDyymW/NMkYWo5PAfrWn27To8WNkWAMomhGO95FtqDjzZFxZu+oV80HVFN3gOFIRPKGD/Ph3MVLIBOU7JJrQ6xJPzPvzzf7Zsfq4LAk5ZsVqN1ubw73ysU6nitzU2Q+GAokc+fVObyG1ZsbdWihtLm/LJAgha+m/mSmbUqkI9lrrY846X3V+xVKBErveE5vTmbyfS3RQj70hIBSuxhzEF5AzflirWYUARWCV/SiZvfxm2LlNTfwuwVq2lja/8jwG4i3+pG7pQKuVGZxVRsIBa3VV0oNpqk+Edumq0NL3JxKiVIhRDQ1g5VZHT1Fq1Wjbk/FkgV8fze7+DjFQmEQYuf6Goqqbf5WJ3E0JFN3cmv56TzMhr7mB0xH69+suvn+v6CZNq8JV9pVKNdq3Fb5RRfIcHUiTERzZmv1VUipeK1C70I="
 }
