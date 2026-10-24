@@ -1,10 +1,10 @@
 {
-  "version": "0.16.0",
-  "tag": "v0.16.0",
+  "version": "0.16.1",
+  "tag": "v0.16.1",
   "requiresConfirmation": false,
-  "notes": "Updates werden jetzt mit OpenSSL statt mit sodium geprüft, damit sie auch auf Hostern ohne sodium ankommen. Die Systemprüfung zeigt dafür openssl statt sodium.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/website-live-editor-releases/main/releases/v0.16.0.zip",
-  "sha256": "e232017576613a78a896e178cc695b984a779f15d1e52242c8d4acee01a7b45c",
-  "signature": "85D/kePHSjlH+7GteMQqkAOgNapd8uWgUTGwEXS0bPjJs5y+q0Sjv3+lhVoTl6+d2d9fCyp1v0YDDu4n+EWNAw==",
-  "opensslSignature": "FtTejQzziBOxti1lfKcb3dh/DDEWrAqJXWMI3IHuYDHfojT/bgGTBrkwN0xx1n4dw6Ek/PqDnwGJZy+e2KT4h1/09CYQ022RfBPODVWDHaWnLFvxLbWd4jE8LCJ5URZCJhwt9JyMbHMbsvdRR2173iS3qsRyoeVYb4GLbxaDtiMeygGcNhMrIf+6OQ8Jr7pKerK2kKRiJlKvzD/CjyFz5ViyK3cb7H7BpoYn9cxv3DRNOpdikfvksoIJ7srTezDyymW/NMkYWo5PAfrWn27To8WNkWAMomhGO95FtqDjzZFxZu+oV80HVFN3gOFIRPKGD/Ph3MVLIBOU7JJrQ6xJPzPvzzf7Zsfq4LAk5ZsVqN1ubw73ysU6nitzU2Q+GAokc+fVObyG1ZsbdWihtLm/LJAgha+m/mSmbUqkI9lrrY846X3V+xVKBErveE5vTmbyfS3RQj70hIBSuxhzEF5AzflirWYUARWCV/SiZvfxm2LlNTfwuwVq2lja/8jwG4i3+pG7pQKuVGZxVRsIBa3VV0oNpqk+Edumq0NL3JxKiVIhRDQ1g5VZHT1Fq1Wjbk/FkgV8fze7+DjFQmEQYuf6Goqqbf5WJ3E0JFN3cmv56TzMhr7mB0xH69+suvn+v6CZNq8JV9pVKNdq3Fb5RRfIcHUiTERzZmv1VUipeK1C70I="
+  "notes": "Wartungs-Release ohne inhaltliche Änderungen: prüft, dass Updates mit OpenSSL automatisch ankommen.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/website-live-editor-releases/main/releases/v0.16.1.zip",
+  "sha256": "bdad171b4f2c77e355cca8b24180011618571ac2835d949068a919298ff62b3e",
+  "signature": "u08K9y2ExbE6J9Yeg/4dUXDOQy3J/RFm3R23YZd5tcN8atl0oZU57OUGYajYUASYsqX7FSJas9iPUHTRNgcCAA==",
+  "opensslSignature": "J1OkUPM3aXqPHWPKDN0RJ05zJic545EJwNTh0bajziQa0qc0jiaeI+Fa7J8iOPmBwhyAT7RjtgSEUivWJwu3GiizOD44dFQfaYZG5+xlgXC4I68O5pw/miOmuhRhaH+azhOcc6HXT3hOTXYwTwR0ZTVpTCZLm8LiA9fbt5raeIhp3CJ7CbQIr5XGwpFxl05YW7UN2yNujM56QJFuazVFYMb2WdHl4JEW3tC5+l6HEw8N67cwkadU7gkv5KeruYFMJQUoIMjDMSxVhtHYGLrj1K4LErurOv2sR3fexXqXx5E9Fp9z6k+gyfG1nsQNFENM87zOs4fBZeOcG9SfnLdkD3GGNIzTD537sXgo2D4b4unt2GI2TP/aR7R9mrtiCzKVmXt8hkOiYXE9BEGobrzzxXhVXpt7xrI9XnlxJ0djyvSvj362ufcNwQ8qhaYmIL5CmUtuKRzhQLVEosRdEEQXxIr8m9ICQlALbtalshr5gr737q/3+Ywa+jzN9TcK7w1ktl/jQXlyMhjVdpf1uwmcJhMpHs98MhovTmMnAbLlYsbhaXvRd/cW7N1SYtkArOqCiiyiRsRQOQQ0o4SgW/Wt/VhszNw4DJmFAGJXow6JOMl8EFiVh7lkYVxFVQPkk1q4+Zls7Oq55KUZss55Ba8ARPVmONjDkh98kPgAFmqjZWU="
 }
