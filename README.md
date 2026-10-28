@@ -1,4 +1,4 @@
-# Live-Editor – Releases
+# LeBuild – Releases
 
 Update-Kanal der Kunden-Installationen. Wird ausschließlich vom Release-Workflow des Quell-Repos beschrieben, nicht von Hand.
 
