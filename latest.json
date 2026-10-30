@@ -1,10 +1,9 @@
 {
-  "version": "0.16.1",
-  "tag": "v0.16.1",
+  "version": "0.17.0",
+  "tag": "v0.17.0",
   "requiresConfirmation": false,
-  "notes": "Wartungs-Release ohne inhaltliche Änderungen: prüft, dass Updates mit OpenSSL automatisch ankommen.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/website-live-editor-releases/main/releases/v0.16.1.zip",
-  "sha256": "bdad171b4f2c77e355cca8b24180011618571ac2835d949068a919298ff62b3e",
-  "signature": "u08K9y2ExbE6J9Yeg/4dUXDOQy3J/RFm3R23YZd5tcN8atl0oZU57OUGYajYUASYsqX7FSJas9iPUHTRNgcCAA==",
-  "opensslSignature": "J1OkUPM3aXqPHWPKDN0RJ05zJic545EJwNTh0bajziQa0qc0jiaeI+Fa7J8iOPmBwhyAT7RjtgSEUivWJwu3GiizOD44dFQfaYZG5+xlgXC4I68O5pw/miOmuhRhaH+azhOcc6HXT3hOTXYwTwR0ZTVpTCZLm8LiA9fbt5raeIhp3CJ7CbQIr5XGwpFxl05YW7UN2yNujM56QJFuazVFYMb2WdHl4JEW3tC5+l6HEw8N67cwkadU7gkv5KeruYFMJQUoIMjDMSxVhtHYGLrj1K4LErurOv2sR3fexXqXx5E9Fp9z6k+gyfG1nsQNFENM87zOs4fBZeOcG9SfnLdkD3GGNIzTD537sXgo2D4b4unt2GI2TP/aR7R9mrtiCzKVmXt8hkOiYXE9BEGobrzzxXhVXpt7xrI9XnlxJ0djyvSvj362ufcNwQ8qhaYmIL5CmUtuKRzhQLVEosRdEEQXxIr8m9ICQlALbtalshr5gr737q/3+Ywa+jzN9TcK7w1ktl/jQXlyMhjVdpf1uwmcJhMpHs98MhovTmMnAbLlYsbhaXvRd/cW7N1SYtkArOqCiiyiRsRQOQQ0o4SgW/Wt/VhszNw4DJmFAGJXow6JOMl8EFiVh7lkYVxFVQPkk1q4+Zls7Oq55KUZss55Ba8ARPVmONjDkh98kPgAFmqjZWU="
+  "notes": "Großes Funktions-Update: Das Produkt heißt jetzt LeBuild. Neu sind Icons und mehrzeiliger Text als Feldarten, Content-Typen mit eigenen Seiten und Dialogen, das Plugin „Öffnungszeiten“, die Ansicht „Aktivität“ für Admins und ein Health-Check. Hochgeladene Fotos werden verkleinert und als WebP gespeichert, Strg+S speichert, die Anmeldung hält 8 Stunden, und direkt geänderte Seitendateien werden beim Öffnen abgeglichen. Dazu viele Verbesserungen an Sicherheit und Stabilität.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.17.0.zip",
+  "sha256": "177869fdc771ab0a0b5a5add3e0974b7d9fd2cd785b29aeda2e3f32057027728",
+  "opensslSignature": "JDoUovOQIFztFtCYv8OkC1m5uWKjjGoiTOwPuwvuvNmxL9mLLA48StSUwjaAAYs+alxkoPWdfQC+h0YMqBJV6m27OgcShj0AHLyMAj3q9CmZsyp15G4rEW+4ZBWjjj/R/lpdpCuJQ0JwNTrL1ouRLtclo2lxb12eQHqj934MhN09pviIiXmxXoy7nO/401xQs/XlPtyp9vTUare7hfUtuaBtHQ+rOQaCSPKdf26ZYUW9q/5yttZa4h817fU8qqbqnQ4tx2lZ2sga8RraumnHwKZi71gBRqHGRgGYRyG6cLqEzZS5C4DFv4cvZkq/qhjVP0t/xnZPSZI/ol1KGXODV4dKLxkJfyrzdy8zhm+qcN2zxtro4vwRI9CgNEaU7DoxO/NCpY5ux1Cznx/LYkcR80QMsQ2UToXYqjf/hNKeMiYxyDGqC6kHgh78kQs3O1FPRtrGxwrpoFaU0u2MsPKyiH0o79UYIcMU/xOrUpnWVcmu4YXUriFDxP6ECxQjlLxhmhPMTZU+LyFvglCtkHqO3Fx+RouXyKGOuTqEtdRDvGsUbidTBNMNKNHg1CLSuw+nGpL88OXlEVQpavRy+moK3hRA5NW+1icLOMB3OjINOlTEvplmymVCFMRzIgJFw2/wKojBul1otp3kS84kGNcFHOHHL23GwRdYuSBmlKAJIiw="
 }
