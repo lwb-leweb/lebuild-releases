@@ -1,9 +1,9 @@
 {
-  "version": "0.17.0",
-  "tag": "v0.17.0",
+  "version": "0.18.0",
+  "tag": "v0.18.0",
   "requiresConfirmation": false,
-  "notes": "Großes Funktions-Update: Das Produkt heißt jetzt LeBuild. Neu sind Icons und mehrzeiliger Text als Feldarten, Content-Typen mit eigenen Seiten und Dialogen, das Plugin „Öffnungszeiten“, die Ansicht „Aktivität“ für Admins und ein Health-Check. Hochgeladene Fotos werden verkleinert und als WebP gespeichert, Strg+S speichert, die Anmeldung hält 8 Stunden, und direkt geänderte Seitendateien werden beim Öffnen abgeglichen. Dazu viele Verbesserungen an Sicherheit und Stabilität.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.17.0.zip",
-  "sha256": "177869fdc771ab0a0b5a5add3e0974b7d9fd2cd785b29aeda2e3f32057027728",
-  "opensslSignature": "JDoUovOQIFztFtCYv8OkC1m5uWKjjGoiTOwPuwvuvNmxL9mLLA48StSUwjaAAYs+alxkoPWdfQC+h0YMqBJV6m27OgcShj0AHLyMAj3q9CmZsyp15G4rEW+4ZBWjjj/R/lpdpCuJQ0JwNTrL1ouRLtclo2lxb12eQHqj934MhN09pviIiXmxXoy7nO/401xQs/XlPtyp9vTUare7hfUtuaBtHQ+rOQaCSPKdf26ZYUW9q/5yttZa4h817fU8qqbqnQ4tx2lZ2sga8RraumnHwKZi71gBRqHGRgGYRyG6cLqEzZS5C4DFv4cvZkq/qhjVP0t/xnZPSZI/ol1KGXODV4dKLxkJfyrzdy8zhm+qcN2zxtro4vwRI9CgNEaU7DoxO/NCpY5ux1Cznx/LYkcR80QMsQ2UToXYqjf/hNKeMiYxyDGqC6kHgh78kQs3O1FPRtrGxwrpoFaU0u2MsPKyiH0o79UYIcMU/xOrUpnWVcmu4YXUriFDxP6ECxQjlLxhmhPMTZU+LyFvglCtkHqO3Fx+RouXyKGOuTqEtdRDvGsUbidTBNMNKNHg1CLSuw+nGpL88OXlEVQpavRy+moK3hRA5NW+1icLOMB3OjINOlTEvplmymVCFMRzIgJFw2/wKojBul1otp3kS84kGNcFHOHHL23GwRdYuSBmlKAJIiw="
+  "notes": "Neu ist die Mediathek in der Verwaltung: alle Bilder mit Vorschau und Status (verwendet, nur im Verlauf, unbenutzt), unbenutzte lassen sich auswählen und löschen, und unbenutzte Uploads räumt LeBuild nach 30 Tagen selbst weg. Hochgeladene Bilder liegen jetzt in der Website und ziehen beim Update von selbst um. Content-Typen bekommen die Feldart Icon mit Icon-Auswahl, und „Neuer Eintrag“ an einer gefilterten Liste trägt den Filterwert gleich ein. Dazu das neue LeBuild-Logo und Favicon in Verwaltung, Anmeldung und Editor-Leiste.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.18.0.zip",
+  "sha256": "d8b22c4bae133d27612995a323a3d1024c6f31fd72727db93d452f475903e1db",
+  "opensslSignature": "lVqYwZ8TbcOpuB7eZlMjv9cAHDLW+w+cw6mvamszSMfdamIgoahcV8kqiWAfSzVh815zZQz3dFwFa9wcRgCz9rgC2ZhX33pXnyET3oUNFUsyMu/agnE3EQNiCVbGvbCn9cu0ZSFwXG88rZjtCcFDP7eiGWpONdkblcKWBBCOnP/RA4GadPx/f+pvb69G4AaILRK2E0kWM0quC0wD9vR/KwiFiMWQhyo+PeTRlxcXIErfgOKwrEY50zti/AP+n/3CsyfvKGrl/+6Rs2QqZlLIBMmVa+22knp927iYARihESFtoajkqR4GPvUbaEMjScFmkDW3J9L03gHIw+mIuS1pAYx4+vn019YGBZ8RhMDcHYmbycl80Kz6exOcEiiHWU+qL82yUf9+F+i1C+uO3RTB0Dnz1F9J5a+xsJu0DMmDV5t/bkxe2aMKLuShaSBovC17QOq/80BkIlmYB446STjbnWGGXJIjsV+NXgIr6PhaZQlv37GgLDLvbRk0TWO3lhfkms+QzjvxFniKFBRzIHZCnTi0Rr1/o02cDIrJIMElfQoZDKOfx1jIePRoabtwnvVShQc+kL7/lqy4iw2XlxbLWEgb25HNIQATOWtVBu1J2M5sGf1ZWRbH7Np6VGXuKSMMvmUVLURq1iVsb0iQUfI3vOVboYOWmFwHGP5u+M9i2Cc="
 }
