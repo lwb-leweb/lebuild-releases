@@ -1,9 +1,9 @@
 {
-  "version": "0.18.0",
-  "tag": "v0.18.0",
+  "version": "0.19.0",
+  "tag": "v0.19.0",
   "requiresConfirmation": false,
-  "notes": "Neu ist die Mediathek in der Verwaltung: alle Bilder mit Vorschau und Status (verwendet, nur im Verlauf, unbenutzt), unbenutzte lassen sich auswählen und löschen, und unbenutzte Uploads räumt LeBuild nach 30 Tagen selbst weg. Hochgeladene Bilder liegen jetzt in der Website und ziehen beim Update von selbst um. Content-Typen bekommen die Feldart Icon mit Icon-Auswahl, und „Neuer Eintrag“ an einer gefilterten Liste trägt den Filterwert gleich ein. Dazu das neue LeBuild-Logo und Favicon in Verwaltung, Anmeldung und Editor-Leiste.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.18.0.zip",
-  "sha256": "d8b22c4bae133d27612995a323a3d1024c6f31fd72727db93d452f475903e1db",
-  "opensslSignature": "lVqYwZ8TbcOpuB7eZlMjv9cAHDLW+w+cw6mvamszSMfdamIgoahcV8kqiWAfSzVh815zZQz3dFwFa9wcRgCz9rgC2ZhX33pXnyET3oUNFUsyMu/agnE3EQNiCVbGvbCn9cu0ZSFwXG88rZjtCcFDP7eiGWpONdkblcKWBBCOnP/RA4GadPx/f+pvb69G4AaILRK2E0kWM0quC0wD9vR/KwiFiMWQhyo+PeTRlxcXIErfgOKwrEY50zti/AP+n/3CsyfvKGrl/+6Rs2QqZlLIBMmVa+22knp927iYARihESFtoajkqR4GPvUbaEMjScFmkDW3J9L03gHIw+mIuS1pAYx4+vn019YGBZ8RhMDcHYmbycl80Kz6exOcEiiHWU+qL82yUf9+F+i1C+uO3RTB0Dnz1F9J5a+xsJu0DMmDV5t/bkxe2aMKLuShaSBovC17QOq/80BkIlmYB446STjbnWGGXJIjsV+NXgIr6PhaZQlv37GgLDLvbRk0TWO3lhfkms+QzjvxFniKFBRzIHZCnTi0Rr1/o02cDIrJIMElfQoZDKOfx1jIePRoabtwnvVShQc+kL7/lqy4iw2XlxbLWEgb25HNIQATOWtVBu1J2M5sGf1ZWRbH7Np6VGXuKSMMvmUVLURq1iVsb0iQUfI3vOVboYOWmFwHGP5u+M9i2Cc="
+  "notes": "Auswahlfelder in Content-Typen können ihre Werte jetzt aus einem anderen Content-Typ holen, etwa Kategorien, die du selbst im Backend pflegst. Im Formular legst du mit „+ Kategorie hinzufügen“ direkt eine neue an, und benennst du eine um, wandern alle Einträge mit. Im Mehrfachbetrieb leitet die Vorschau-Adresse auf die Domain weiter, sobald die Website dort erreichbar ist.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.19.0.zip",
+  "sha256": "485b5ca8ebb4b1a257705dc2e50b861d342d3a58a9b5db97c0574e75292a3cb8",
+  "opensslSignature": "ErjKU9LzQdyJF1kxXZ9AIJbALWgU9WfH6y8ls5dPG98AOILNJxyFw3DAHYDdYKq8o/smRYcQmgrV6pIMja9rcAlehewiF4BjR94lvU+HSmbswrzpuGiRLeXNpXdKge47RYfQQYe21lvsI09cQZrsVQg9xBRXhzJqKIARTUHhEsuq+d1LtLRVxOk7OePfLr86i1voeiBqR5pJhrAT3sZW3xM9H5xwXMBTmE+RwLFPnUuHyFIxBdxotg10aLYglIGMB6hzH4MZMZudrQ/KJBb1d6822XM4UKC0SSbH3o/yBF8nB8hJ+50YkOSElWFwHL0SW9Ka09zQ5AXMZ3NpdQO8tuX3vwtZv+m+xbAgmVmriaKPTv1m7yQkoG9Rq/iy56z3ZVHRyYCPSWtPhkDLwRMDItDT87VGynkS0ry4KIbXv55mZYfIN4LChf8G9TFkC4dl0NQSU/+wNAFzA/RvilxrZDy2hZh4AoC9UXwjkLsPkPXf7/LkIgJNFfKqXBap5bMa9Sm5p+OLu89ocCKCbBM0LMVokUCW4AMO9BiHOGO8PaET/b0k37AnIF8a8wiz+6BllMn8NJ8sJm+4ymR+/xK/uSO1afE86Hil8pniq30SYrhWTAgg3+HS1xWFWjOZtNt8P2s4J2CedbPAulj/m4RDPcp5MR8+heXFkRl0VegGCts="
 }
