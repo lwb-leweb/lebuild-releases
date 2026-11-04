@@ -1,9 +1,9 @@
 {
-  "version": "0.19.1",
-  "tag": "v0.19.1",
+  "version": "0.20.0",
+  "tag": "v0.20.0",
   "requiresConfirmation": false,
-  "notes": "Die eigene Seite eines Content-Typ-Eintrags darf jetzt unter der Adresse einer bestehenden Seite liegen: Die Liste bleibt etwa unter /aktuelles, ein einzelner Beitrag liegt dann unter /aktuelles/<beitrag>.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.19.1.zip",
-  "sha256": "54d66cd3cec9dafe3c91c6ec1f25d6809e0cda1a5d5184ca31fc9c85fdc96e43",
-  "opensslSignature": "aHg5laphSnEcPTFd1ANTMDFedfNK2EzD7AvJ3qYEZ7XAiPxY6JDwlzB4CJ5uszCeu4wSVbh6z3RpF5+gt6HTkXHo2+BoiuxQOR8ASCIOZV3hlNdbcfmPh+S4Y8Cgly3CM/8ZP4Ub8C2kaswCRmP6+m3HN4aGlw670+LH1o2J2VNJKINUCKXv3nFIwR3KxmYUPUAVBij35w2FwU84n/4c6mnGaoDoCNpg7RVFx89dfLtHTzZT+hGLBqPB9b45WSkrnlyIocBRzHybcapcx8M4lcp2w1quHZpE5d2BDt2y1QagXSm1DpucJNJUm7IRoGEQ17Cj6sE68VLWhArZ9/oMNRh72HLsiLJewH4DoVYieG3Y9AwzpSo3VshoiaQ0ynYvnvcBo6z0BtpUQ54+kY7MlKW59ydqyaNSHIM/RBub3a4o32fRbs4AYwPqNoNnzKa/Iri57ay0V8zSI3wMyshzrK2vdpsQ87INVzOvFMOhw4AERSgB6nIZFfOVvuCVAUz7hQHgSz70Z0I0pBrtim9VMdlRFh05OjInBOsin1HvkunmkSHZ6MMDDZEVNquy0JUC3hb9pbQiDhexi9auZkX5dUVrJRyITI2OiMVkiHkDX1JuZxnnRODaZnPXpyzCECgskC1jjlaE+Pf6MuuMW+i3mV17zqk2HMqkuCDX6FPUn8k="
+  "notes": "Content-Typen bekommen einen kleinen Builder: Mit einem Feld der Art „blocks“ setzt man den Inhalt eines Eintrags aus Text, Bild, Galerie, Zitat und Downloads zusammen, sortiert per Ziehen und klappt Blöcke ein. Große Einträge öffnen im Seiten-Editor breit in zwei Spalten, Fotolisten sind ein Bildraster mit Mehrfach-Upload, die Adresse steht klein unter dem Titel, und ein leeres Feld mit fallback zeigt den Anfang eines anderen Feldes, etwa eine Kurzfassung aus dem Beitrag.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.20.0.zip",
+  "sha256": "b49cd90fdd9aeb958f8e99af138008fc601935053ff4acc6e3c11d112074a3d6",
+  "opensslSignature": "uWaGGdPnvmjCIq2+CmBNzBwsNxWsnd/V0opO+tMbYLzukxBXqskjV5lMCfGubdjq8u7/YESi3W7EO44g88zsgm2Acb80alIqU8VuH0IXiBTV1jIFFzbFRDHdRKCO8peKZx8y8nTNm5mKpANUeSRibI68Q1+iFwSvSvo4wrtN8uE8h8VXG38aEAvvP0/JsR6E+nsltq11R6Zma/4VgAwN3qB5+2t5Ej2oGmCRO8gxznieWTOGBPbO52ZJlVklUqMCa6TggJJ42Chsf4M8r8TzEMaUVwZ0tSCODXcBpJ1rHol0Bml0gmdQU6x2PwfrtFIlQ+CCtcCYEz+o0Ut5aMQoa91nqJsSaf65mDw+YTZkWPV4+fAsRenMdofch330QvNQO9xufrzlpeZaAgZceOQILb++vWcyJzi0kl0dprfLurgtfnxJlGOtMPSylIU6UC+IWRRtt0rm+gc+zawJptQN0LxvDtS6NoKKLXkZHHfV1kLcaBqiHRKjPGWBfdSPjo3cxZTlDvgoEJlvzQA+ko+t4dQwNx87fOz6W1up5+/A43Nma4RMHatOwRx0JFRDRKUXNh8O5anSKg+jy+SMutgU0DKHH56WTSfRXWXRtp0QjfeyLUDepgahlzFt4PO4ugUU6YuzSt+JuewJC26zq1l8kD5z2qQdf3VKh57HRpd2FBg="
 }
