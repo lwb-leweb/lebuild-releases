@@ -1,9 +1,9 @@
 {
-  "version": "0.20.0",
-  "tag": "v0.20.0",
+  "version": "0.20.1",
+  "tag": "v0.20.1",
   "requiresConfirmation": false,
-  "notes": "Content-Typen bekommen einen kleinen Builder: Mit einem Feld der Art „blocks“ setzt man den Inhalt eines Eintrags aus Text, Bild, Galerie, Zitat und Downloads zusammen, sortiert per Ziehen und klappt Blöcke ein. Große Einträge öffnen im Seiten-Editor breit in zwei Spalten, Fotolisten sind ein Bildraster mit Mehrfach-Upload, die Adresse steht klein unter dem Titel, und ein leeres Feld mit fallback zeigt den Anfang eines anderen Feldes, etwa eine Kurzfassung aus dem Beitrag.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.20.0.zip",
-  "sha256": "b49cd90fdd9aeb958f8e99af138008fc601935053ff4acc6e3c11d112074a3d6",
-  "opensslSignature": "uWaGGdPnvmjCIq2+CmBNzBwsNxWsnd/V0opO+tMbYLzukxBXqskjV5lMCfGubdjq8u7/YESi3W7EO44g88zsgm2Acb80alIqU8VuH0IXiBTV1jIFFzbFRDHdRKCO8peKZx8y8nTNm5mKpANUeSRibI68Q1+iFwSvSvo4wrtN8uE8h8VXG38aEAvvP0/JsR6E+nsltq11R6Zma/4VgAwN3qB5+2t5Ej2oGmCRO8gxznieWTOGBPbO52ZJlVklUqMCa6TggJJ42Chsf4M8r8TzEMaUVwZ0tSCODXcBpJ1rHol0Bml0gmdQU6x2PwfrtFIlQ+CCtcCYEz+o0Ut5aMQoa91nqJsSaf65mDw+YTZkWPV4+fAsRenMdofch330QvNQO9xufrzlpeZaAgZceOQILb++vWcyJzi0kl0dprfLurgtfnxJlGOtMPSylIU6UC+IWRRtt0rm+gc+zawJptQN0LxvDtS6NoKKLXkZHHfV1kLcaBqiHRKjPGWBfdSPjo3cxZTlDvgoEJlvzQA+ko+t4dQwNx87fOz6W1up5+/A43Nma4RMHatOwRx0JFRDRKUXNh8O5anSKg+jy+SMutgU0DKHH56WTSfRXWXRtp0QjfeyLUDepgahlzFt4PO4ugUU6YuzSt+JuewJC26zq1l8kD5z2qQdf3VKh57HRpd2FBg="
+  "notes": "Im Docker-Betrieb ist session.upload_progress abgeschaltet, als Schutz vor der PHP-Lücke CVE-2026-115560, für die es noch keinen Fix gibt. LeBuild nutzt die Funktion nicht, für Nutzer ändert sich nichts.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.20.1.zip",
+  "sha256": "c6f8ac94585dafb4d788c86d83f7854dfb5572ee2163a57a346858eefdfb8862",
+  "opensslSignature": "T3uDuABtfpTpfW9xASpIaciq8vKUdgTFIHTBaNQjrI0gT6njM0tv/goXAl3TdzZHPyWOqnDp6YI/nMTcvcJOb+1FulW9RWlK5khOddNdXZWaUmoqNr9/j3WEPHS0jEHPBrs3JWE/6yQ6hoTN149CymBVJsRjhgs4Z2Ri/J2t1G7L4wP5L22cpqYh7PwGAfaRpG0aCTPDNRDoysv55GsIXFoDm5BU313NKOjFMUOx5uJzlWzci7QRrbdnj5SV98xHLYrkS7VBTTiq1pHjOEAP8312Ze8UyAhhzXDbnOxdVvi2Xd9w9cjQ42F+rDOOUUMKU1a6RDzXouVKkJpfPc55sV+woMzchXAkRPgW4wnep++xRbgNs1DsGxq0XSGUp/kUPh5LyBeYMHev5YlHRnBOaS6POO+sygHZqBkxqAksZnir6xl7MTd6cfmw6EPB3sWyKTeXoz3a6DT5Dgx5EH0zrv63VkaRtX7HHPj78rruSBn8PYRX4lm34PlC65Jd1iHsKQ4VVWz+m+mazmhUli4ZkAm3ZK+Is6xt4aZj9e8o9KopmfnhbfOil80Yas8GFJTVJscFr67RsQOViWOq7kW5AMgrY9wgf9LEoarRaZG0JgBnO2t/leqXkYMlq27G6ei+PGjmmrYsFJcAx7yKwi0e0kcUitJ+7j3Ru/CeEaZ2Dm0="
 }
