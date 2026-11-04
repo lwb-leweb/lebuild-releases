@@ -1,9 +1,9 @@
 {
-  "version": "0.20.1",
-  "tag": "v0.20.1",
+  "version": "0.21.0",
+  "tag": "v0.21.0",
   "requiresConfirmation": false,
-  "notes": "Im Docker-Betrieb ist session.upload_progress abgeschaltet, als Schutz vor der PHP-Lücke CVE-2026-115560, für die es noch keinen Fix gibt. LeBuild nutzt die Funktion nicht, für Nutzer ändert sich nichts.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.20.1.zip",
-  "sha256": "c6f8ac94585dafb4d788c86d83f7854dfb5572ee2163a57a346858eefdfb8862",
-  "opensslSignature": "T3uDuABtfpTpfW9xASpIaciq8vKUdgTFIHTBaNQjrI0gT6njM0tv/goXAl3TdzZHPyWOqnDp6YI/nMTcvcJOb+1FulW9RWlK5khOddNdXZWaUmoqNr9/j3WEPHS0jEHPBrs3JWE/6yQ6hoTN149CymBVJsRjhgs4Z2Ri/J2t1G7L4wP5L22cpqYh7PwGAfaRpG0aCTPDNRDoysv55GsIXFoDm5BU313NKOjFMUOx5uJzlWzci7QRrbdnj5SV98xHLYrkS7VBTTiq1pHjOEAP8312Ze8UyAhhzXDbnOxdVvi2Xd9w9cjQ42F+rDOOUUMKU1a6RDzXouVKkJpfPc55sV+woMzchXAkRPgW4wnep++xRbgNs1DsGxq0XSGUp/kUPh5LyBeYMHev5YlHRnBOaS6POO+sygHZqBkxqAksZnir6xl7MTd6cfmw6EPB3sWyKTeXoz3a6DT5Dgx5EH0zrv63VkaRtX7HHPj78rruSBn8PYRX4lm34PlC65Jd1iHsKQ4VVWz+m+mazmhUli4ZkAm3ZK+Is6xt4aZj9e8o9KopmfnhbfOil80Yas8GFJTVJscFr67RsQOViWOq7kW5AMgrY9wgf9LEoarRaZG0JgBnO2t/leqXkYMlq27G6ei+PGjmmrYsFJcAx7yKwi0e0kcUitJ+7j3Ru/CeEaZ2Dm0="
+  "notes": "LeBuild kümmert sich jetzt selbst um die Grundlagen für Google: robots.txt, Sitemap mit allen Seiten und Beiträgen, eine 404-Seite im Design der Website, Vorschaubild für Google und Social Media (neue Einstellung) und strukturierte Daten. CSS und JS werden verkleinert ausgeliefert, Dateien bleiben im Browser-Cache. Im Editor zeigt „Alle Texte“, wie lang Seitentitel und Beschreibung sein dürfen.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.21.0.zip",
+  "sha256": "595bd65818f8aa4a49e340cb4c507d869e55ef15f9738ec7a2996c8c08758bca",
+  "opensslSignature": "L474cmcnAUnjvbIEYnabvOwtBoFsaprx+ohhOq8mdtkZm9oHIMCYRtDsPch0T8xEImORg8EvYmdVib6TY6GRuWbvI3t4qZq72zAxWJ2zATEv68TuR5aXKBsMhaU3b0FG+7DEod2dgsv8khdExTY4vGXETn78t+ORDJE9yDlfRbGvv1Ek6awBQXrqbDxO5bkPpjNM/Cm/ERBlzOLx9DScUKQk0yXcydPfMKbi4zcMFfDBrrwwHUk8osqEGvHhErByuVLrw2doU42oAlILp0fShKlulAgulYJSmRlABRcA7+k5qG4pIz/g+uF9nZuu7/gcCuKiKrVItLfWaAhbrNS0LScWh+pKd5P8rGFJrc216nGR9BpisrBGTVmqRMYWZg/wObaTs9l4gIxtrJfgXrRhg5TXcmqaxaI17KjukTLQ44OQQujovDv0Wdm4G5DYDzIl2nUcUg4W9HE/M1A0UPVlI4lL4eb34TH8qMZ+owQaSWsvwTAqcKf3X/ALoU5louMPc0PqJdO8zdyxXFpNBbGjus3snRTrCYeB5dYlHbtey52JVB0mGdgRAFoehkst3KtbPdSq1m2pG8XQi3Pc2Q8B5rrxuQ0axwXamnEBvDQP+19DC2apdpAGt32tfHVxiggfRh1fLIZycqaeNHzlr8SllDd0iYBWYwPe6RJ7KVH//ag="
 }
