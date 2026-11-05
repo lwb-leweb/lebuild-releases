@@ -1,9 +1,9 @@
 {
-  "version": "0.21.0",
-  "tag": "v0.21.0",
+  "version": "0.22.0",
+  "tag": "v0.22.0",
   "requiresConfirmation": false,
-  "notes": "LeBuild kümmert sich jetzt selbst um die Grundlagen für Google: robots.txt, Sitemap mit allen Seiten und Beiträgen, eine 404-Seite im Design der Website, Vorschaubild für Google und Social Media (neue Einstellung) und strukturierte Daten. CSS und JS werden verkleinert ausgeliefert, Dateien bleiben im Browser-Cache. Im Editor zeigt „Alle Texte“, wie lang Seitentitel und Beschreibung sein dürfen.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.21.0.zip",
-  "sha256": "595bd65818f8aa4a49e340cb4c507d869e55ef15f9738ec7a2996c8c08758bca",
-  "opensslSignature": "L474cmcnAUnjvbIEYnabvOwtBoFsaprx+ohhOq8mdtkZm9oHIMCYRtDsPch0T8xEImORg8EvYmdVib6TY6GRuWbvI3t4qZq72zAxWJ2zATEv68TuR5aXKBsMhaU3b0FG+7DEod2dgsv8khdExTY4vGXETn78t+ORDJE9yDlfRbGvv1Ek6awBQXrqbDxO5bkPpjNM/Cm/ERBlzOLx9DScUKQk0yXcydPfMKbi4zcMFfDBrrwwHUk8osqEGvHhErByuVLrw2doU42oAlILp0fShKlulAgulYJSmRlABRcA7+k5qG4pIz/g+uF9nZuu7/gcCuKiKrVItLfWaAhbrNS0LScWh+pKd5P8rGFJrc216nGR9BpisrBGTVmqRMYWZg/wObaTs9l4gIxtrJfgXrRhg5TXcmqaxaI17KjukTLQ44OQQujovDv0Wdm4G5DYDzIl2nUcUg4W9HE/M1A0UPVlI4lL4eb34TH8qMZ+owQaSWsvwTAqcKf3X/ALoU5louMPc0PqJdO8zdyxXFpNBbGjus3snRTrCYeB5dYlHbtey52JVB0mGdgRAFoehkst3KtbPdSq1m2pG8XQi3Pc2Q8B5rrxuQ0axwXamnEBvDQP+19DC2apdpAGt32tfHVxiggfRh1fLIZycqaeNHzlr8SllDd0iYBWYwPe6RJ7KVH//ag="
+  "notes": "Dateien der Website (CSS, JS, Bilder, Schriften) bekommen eine Versionsnummer und bleiben damit ein Jahr im Browser-Cache; ändert sich eine Datei, laden Besucher sie sofort neu. Wiederkehrende Besucher laden die Website dadurch schneller. Die Vorlage für neue Websites hängt den Namen nicht mehr doppelt an den Seitentitel.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.22.0.zip",
+  "sha256": "a05c7ccd8763aebbb8137d95fb5318be22a5d6eb097c95c25039fc36766d7a91",
+  "opensslSignature": "QegwWdrR8c7DehVLu1uzYFZpxoUf7K/fj5T4FYOpMJ1aXt/pnjpYz+2s0ElJEdmPYGrMy2VMjA3EJYUBzKthOqwXusbce9kK4VRX/tRDX6KTsaZ6MFFV0i6t7E4Ir1e5A7s6/pmPH6Y458iYqyBs7lFuJQiR3+02uHD6UImHrM8XnFJ7neOHGHVqdFqXn7JeqpA0avWrXqkYRcWRZ6KKb6TMizAGhTUEKlZMgsRd8OsWv/+F+HBPFLBqhZ5Ar5qlSeESWSuFLhTG0+2MqiVZ3xkPD/TopDQuippKiL22jz0XADAETvnsxduIQBOIGthseHfLgFB0qVZ63iCsxEgsCmuUkFUcA4RvE5sVJ4UimPwad3C1TTaFZsMlaGz1bOTr7+p2n14VzFVyH0Mizpc0oKOnCBtr4/o7zreyWRddZWdvsAaOyZLWr0sHVW9kyeFrYvLPaloCZmOhLvNDcO4JjM6JK021ivS1fYqIdot6rXJbyWP4A6RRX/PETkFmZTeVd6gnrZXW+LdIb0iRdVxum/+lzOBzOfaGc8NxVy5VVCLtCmVidx5oJ5QP5TFW1VuSRxbyyMmfeiYZ8t5wkgxBm8uDa3d1zPzfAsDs4NBv9j7eckVjmFaPPM53Rl+0F7IfrrbIcS2HGOXiuTlUiv2Q1ndYd8u91pCZGa3BlU8dYUU="
 }
