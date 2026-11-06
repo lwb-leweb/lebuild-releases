@@ -1,9 +1,9 @@
 {
-  "version": "0.22.0",
-  "tag": "v0.22.0",
+  "version": "0.23.1",
+  "tag": "v0.23.1",
   "requiresConfirmation": false,
-  "notes": "Dateien der Website (CSS, JS, Bilder, Schriften) bekommen eine Versionsnummer und bleiben damit ein Jahr im Browser-Cache; ändert sich eine Datei, laden Besucher sie sofort neu. Wiederkehrende Besucher laden die Website dadurch schneller. Die Vorlage für neue Websites hängt den Namen nicht mehr doppelt an den Seitentitel.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.22.0.zip",
-  "sha256": "a05c7ccd8763aebbb8137d95fb5318be22a5d6eb097c95c25039fc36766d7a91",
-  "opensslSignature": "QegwWdrR8c7DehVLu1uzYFZpxoUf7K/fj5T4FYOpMJ1aXt/pnjpYz+2s0ElJEdmPYGrMy2VMjA3EJYUBzKthOqwXusbce9kK4VRX/tRDX6KTsaZ6MFFV0i6t7E4Ir1e5A7s6/pmPH6Y458iYqyBs7lFuJQiR3+02uHD6UImHrM8XnFJ7neOHGHVqdFqXn7JeqpA0avWrXqkYRcWRZ6KKb6TMizAGhTUEKlZMgsRd8OsWv/+F+HBPFLBqhZ5Ar5qlSeESWSuFLhTG0+2MqiVZ3xkPD/TopDQuippKiL22jz0XADAETvnsxduIQBOIGthseHfLgFB0qVZ63iCsxEgsCmuUkFUcA4RvE5sVJ4UimPwad3C1TTaFZsMlaGz1bOTr7+p2n14VzFVyH0Mizpc0oKOnCBtr4/o7zreyWRddZWdvsAaOyZLWr0sHVW9kyeFrYvLPaloCZmOhLvNDcO4JjM6JK021ivS1fYqIdot6rXJbyWP4A6RRX/PETkFmZTeVd6gnrZXW+LdIb0iRdVxum/+lzOBzOfaGc8NxVy5VVCLtCmVidx5oJ5QP5TFW1VuSRxbyyMmfeiYZ8t5wkgxBm8uDa3d1zPzfAsDs4NBv9j7eckVjmFaPPM53Rl+0F7IfrrbIcS2HGOXiuTlUiv2Q1ndYd8u91pCZGa3BlU8dYUU="
+  "notes": "Content-Typen können Einträge nach einem Datum ausblenden, etwa vergangene Veranstaltungen; ein Tag gilt bis zu seinem Ende, im Backend bleiben alle sichtbar. Plugin-Daten einer Kunden-Website lassen sich in den Klon holen und geprüft zurückspielen. Seiten mit rein numerischem Namen (404, 2024) lassen sich wieder speichern und wiederherstellen.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.23.1.zip",
+  "sha256": "11adf73d82aa03333a3eebdb95f8e224323b8e30cfe8736cc768cd3f0cd7c580",
+  "opensslSignature": "TZS3ESPeZnPQlSOp4X2nEa91w8cLfM4r9kZeQ/f+eTfD2kywbZd+B0bWiBP2hdNPBC3ZV05kS83OazrNI/ejznv87K/d7dsdpzrMhhQFue0gHh1wNHGxbfTSJDa+TstAxL8dAXqPL8yJfOds/fj/uAaKJ0YXIbl2UcjGUYULLiWNuqs1lIeoaL2tc7x/Uol96y++RJ+MHXrUASB46htgjYXxDQAugSol+EyF1FTbV9vq9csmOar6QwSXp1WVSCIypgVzjk60moOHMVsX9jyJS6iZeGufgeumMzxwWtRPPvh+MNo1CEUNJpzGfuxnaM67VCX7XQFgFd12CGMiG8V9Md23M2Z7eaqtb9Pru3Q+VsCEvI+TmfjJTZAGa8W1coSyUub7qiIcRPt2zekltnTxa5fVBveSsYu9gTnoUKlM/0k0v6bMeMMrxQdCueJm5J2beosDqbTIWhzRJilTj/eiKLpIhBzE2gDlfcCQcMN/7V62QM9hbS9RvfRg0yDa2gM5Jq5mIS9ZpY4SPjBQ2XXr0Ev+3mKp9k+wKKz3YkJpsRGAAXqsD7fZsrx/ve/HgtX9JtsIjKYTHBNiypheyXKlB/namB+wu2wWsbkqSwiGn1B8+43Ay2+s928qC6ZytFXr7MqUdPN3DEPeVbl2tDek6hPTbmOxQnmRSqAIJ7BIAQ8="
 }
