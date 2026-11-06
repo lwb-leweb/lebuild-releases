@@ -1,9 +1,9 @@
 {
-  "version": "0.23.1",
-  "tag": "v0.23.1",
+  "version": "0.24.0",
+  "tag": "v0.24.0",
   "requiresConfirmation": false,
-  "notes": "Content-Typen können Einträge nach einem Datum ausblenden, etwa vergangene Veranstaltungen; ein Tag gilt bis zu seinem Ende, im Backend bleiben alle sichtbar. Plugin-Daten einer Kunden-Website lassen sich in den Klon holen und geprüft zurückspielen. Seiten mit rein numerischem Namen (404, 2024) lassen sich wieder speichern und wiederherstellen.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.23.1.zip",
-  "sha256": "11adf73d82aa03333a3eebdb95f8e224323b8e30cfe8736cc768cd3f0cd7c580",
-  "opensslSignature": "TZS3ESPeZnPQlSOp4X2nEa91w8cLfM4r9kZeQ/f+eTfD2kywbZd+B0bWiBP2hdNPBC3ZV05kS83OazrNI/ejznv87K/d7dsdpzrMhhQFue0gHh1wNHGxbfTSJDa+TstAxL8dAXqPL8yJfOds/fj/uAaKJ0YXIbl2UcjGUYULLiWNuqs1lIeoaL2tc7x/Uol96y++RJ+MHXrUASB46htgjYXxDQAugSol+EyF1FTbV9vq9csmOar6QwSXp1WVSCIypgVzjk60moOHMVsX9jyJS6iZeGufgeumMzxwWtRPPvh+MNo1CEUNJpzGfuxnaM67VCX7XQFgFd12CGMiG8V9Md23M2Z7eaqtb9Pru3Q+VsCEvI+TmfjJTZAGa8W1coSyUub7qiIcRPt2zekltnTxa5fVBveSsYu9gTnoUKlM/0k0v6bMeMMrxQdCueJm5J2beosDqbTIWhzRJilTj/eiKLpIhBzE2gDlfcCQcMN/7V62QM9hbS9RvfRg0yDa2gM5Jq5mIS9ZpY4SPjBQ2XXr0Ev+3mKp9k+wKKz3YkJpsRGAAXqsD7fZsrx/ve/HgtX9JtsIjKYTHBNiypheyXKlB/namB+wu2wWsbkqSwiGn1B8+43Ay2+s928qC6ZytFXr7MqUdPN3DEPeVbl2tDek6hPTbmOxQnmRSqAIJ7BIAQ8="
+  "notes": "Neue Seitenleiste im Backend mit den Bereichen Übersicht, Inhalte und System; Einträge der Content-Typen erscheinen als Tabelle mit Suche und Filtern. Im Seiten-Editor stehen Rückgängig und Speichern immer in der Leiste, und bei einem Konflikt beim Speichern lässt sich die eigene Fassung speichern oder die andere übernehmen. Sicherheit: Über Texte in PHP-Seiten lässt sich kein Code mehr einschleusen, und die Login-Sperre bremst verteilte Angriffe je Benutzer (bekannte Geräte ausgenommen). Ein gescheitertes Auto-Update wird nicht mehr bei jedem Aufruf wiederholt.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.24.0.zip",
+  "sha256": "63ce4231db82692721b9ee7dc9aab36a5582ef816d3ce22f852e5e931ee54862",
+  "opensslSignature": "MesRq8PMVA1rPRrpht7NbNgge6xgepCekzwDtFmQSaXxo6lVXzReiOvoZC5LsF1g/dnPR19GItmLyoWynMPAg4lJCYXPfce3hcETWaEMbpG1OU0cudDKAnjlHGeo6l/IISIiiF+wekTeYcR8bw8CUE44GYGPwf3jHNss5RDJk4nJjx2u+cYosyOTlA90t+ff9cItzmxlTNGCuJbMP4FqweNmaWGoYRvjENihmPsVh6vpW30wYItoyrMzdHYb4fzKZ9bVAxzoEvyDmvh2/eMbv8oKLWwu/gir1WaWqfUkG6fD8inVLO2ctybUnxRTYnqkP1GUwBKCmjVrbceilBfmXJsJuwAt1aqVgP3CMxJ8IOFzo2faa2boKaF4KoRXkQ8iuOnfD8C5YhzVQUmdwfxxOOZmmAd3pJHuCn3kRC3p7qQPTfz19/n7JVdFe9hJwql5/k0chgG5wG87flAxFwX6LN2bQdV0ef6b+ngRe2gu5aRW5g5nfmqAy0JZJlXDwCf2ZMpzLBrrg47ijvqaBg8WrAmTBBL7aaZqI/kAkua7wN3LBQ0TWYysfvfyymd/5S36l7UqrsI+37BpM0TPiqGn7PEZS9lR6MMWDD6GzsdRVNS+tcvJBfEWUMFwDxrkULgOCMTL+9XkTu/nJxmWEsRTipCL1ID2q2d3GWSxWpks8/c="
 }
