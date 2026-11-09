@@ -1,9 +1,9 @@
 {
-  "version": "0.24.0",
-  "tag": "v0.24.0",
+  "version": "0.25.0",
+  "tag": "v0.25.0",
   "requiresConfirmation": false,
-  "notes": "Neue Seitenleiste im Backend mit den Bereichen Übersicht, Inhalte und System; Einträge der Content-Typen erscheinen als Tabelle mit Suche und Filtern. Im Seiten-Editor stehen Rückgängig und Speichern immer in der Leiste, und bei einem Konflikt beim Speichern lässt sich die eigene Fassung speichern oder die andere übernehmen. Sicherheit: Über Texte in PHP-Seiten lässt sich kein Code mehr einschleusen, und die Login-Sperre bremst verteilte Angriffe je Benutzer (bekannte Geräte ausgenommen). Ein gescheitertes Auto-Update wird nicht mehr bei jedem Aufruf wiederholt.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.24.0.zip",
-  "sha256": "63ce4231db82692721b9ee7dc9aab36a5582ef816d3ce22f852e5e931ee54862",
-  "opensslSignature": "MesRq8PMVA1rPRrpht7NbNgge6xgepCekzwDtFmQSaXxo6lVXzReiOvoZC5LsF1g/dnPR19GItmLyoWynMPAg4lJCYXPfce3hcETWaEMbpG1OU0cudDKAnjlHGeo6l/IISIiiF+wekTeYcR8bw8CUE44GYGPwf3jHNss5RDJk4nJjx2u+cYosyOTlA90t+ff9cItzmxlTNGCuJbMP4FqweNmaWGoYRvjENihmPsVh6vpW30wYItoyrMzdHYb4fzKZ9bVAxzoEvyDmvh2/eMbv8oKLWwu/gir1WaWqfUkG6fD8inVLO2ctybUnxRTYnqkP1GUwBKCmjVrbceilBfmXJsJuwAt1aqVgP3CMxJ8IOFzo2faa2boKaF4KoRXkQ8iuOnfD8C5YhzVQUmdwfxxOOZmmAd3pJHuCn3kRC3p7qQPTfz19/n7JVdFe9hJwql5/k0chgG5wG87flAxFwX6LN2bQdV0ef6b+ngRe2gu5aRW5g5nfmqAy0JZJlXDwCf2ZMpzLBrrg47ijvqaBg8WrAmTBBL7aaZqI/kAkua7wN3LBQ0TWYysfvfyymd/5S36l7UqrsI+37BpM0TPiqGn7PEZS9lR6MMWDD6GzsdRVNS+tcvJBfEWUMFwDxrkULgOCMTL+9XkTu/nJxmWEsRTipCL1ID2q2d3GWSxWpks8/c="
+  "notes": "Content-Typen: Alle Typen einer Website stehen in einer Datei der Website, Beispiel-Einträge kommen einmal in die Datenbank, bestehende Websites stellen sich beim ersten Aufruf selbst um. Hochgeladene Fotos werden ohne Standort- und Gerätedaten gespeichert und dürfen bis 15 MB groß sein. Einträge melden beim Speichern, wenn sie inzwischen jemand anderes geändert hat. Das Kontaktformular zeigt nach dem Absenden eine Meldung auf der Seite. Dazu Korrekturen im Seiten-Editor (Esc, Bild-Upload während einer Textbearbeitung, Enter in der Icon-Suche), beim Cookie-Banner, beim Vorschaubild, beim Rollback und mehr Schutz für Shortcodes und PHP-Seiten.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.25.0.zip",
+  "sha256": "8fa0f91de9795aa8fa3efa469902a72a3baa8f2e31f380f3a6bdee0fdf405d96",
+  "opensslSignature": "qwwjw2eKKvODVH4SpI6aTHJQwb4Hc+FjDxBbJ6w7iKvroZi7StaZL83jwtnA3XE0ldr24vj2jfphTsmb0/c0JTscGHj4tX4USy/5r3evWgOmubnkRvj0UhqjtnJkIbeed5tOnmq7NA8Y4/EFYljsVP641WY4hX6ohNcL8PFR1Yf+qApmfTFo5DxO3J5d9qMvqa/LTm/wiKpRsD1SkgZ6LsrhoZXlPv7Cxeuj6GxHwsK+Jx/2X3Edc0wr7tbRT+otFrFM1jVq+RJFQte/H3spfYIrZFz1EgB1C3EFW/pahtvkh9nFvKi1fZk2nJp8qRXk5OlS/kdpUR23E6JPrWbjJNRLcYoxOZWfMbKNA5uK86vmXpJrUpZzVsWDz1NW1urydSKEee8yJ4AjfTwLa3/U7gdOhG7exV/HF17kZs+YlUlz4mGajFwEXzAff055WLEtmUc1ZFu+jRTOwwkMTWyBKHryEoRHQd13NZv3ZTMm2l37LcMrvHssbB1rj6TP35r4iuW39dEPr3ig0tukMzCmav+s2ShrzkQa2J17vV/5/KvmPXD6s49V3eWqB13raf2bW0U1skR3bn2rEK4SHsyY5FgGK1HRnhwTtCT2J2662Ko0v3pjE5Cbmr8FIFkdXlRZRuKqMZGRbC2i8zIL0i4CV0JM38Kh/ik0y+r3khFIMDk="
 }
