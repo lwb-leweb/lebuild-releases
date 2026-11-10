@@ -1,9 +1,9 @@
 {
-  "version": "0.28.0",
-  "tag": "v0.28.0",
+  "version": "0.29.0",
+  "tag": "v0.29.0",
   "requiresConfirmation": false,
-  "notes": "Info-Hinweis direkt auf der Website bearbeiten: Angemeldete, auch Redakteure, sehen den Hinweis unten auf jeder Seite und öffnen ihn per Klick zum Ändern. Ohne Hinweis steht dort ein Knopf zum Anlegen, weggeklickt ein Knopf zum Wiederaufklappen. Es gibt nur noch einen Hinweis; leerer Text schaltet ihn ab.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.28.0.zip",
-  "sha256": "413cca391fa3fc7b8af2ca6f467cfea78651af29817704d1459775ade38bc802",
-  "opensslSignature": "gSNC9TnPIJD6Ol7e0DAGixYjA0TNZ82Ncm+u65Q9wMJW2PN9zKK6ptAGLQ6Y1Frau+xx5R3YpxQ3XIgRsghuYoDOqFDopbIRHCQnSmj63dgLvg0jfd+8r5RGRjOTqmPpP374lRmPM/tk61Om71Pxsx+wYy06t6nydbfS9C95wC/E3/AbO409k1yLVNNGccNlH4sr0Q0NyFdseeP670Q42nfg98tzHIVzeOa6vAWXSk2cxi0i9BY4dWVuXcc3O0eeF+gmx3pDxh8yTNZ7wAUrZC14H2L9WSTju57jLgeRYX9OSPWAO1MgSnFmEXrCLAH97B8lOw7IA7aMYoyW+AnyWd4r30XelRsChjihWA6Nu1MVHvV3XZEtzq+ib+po0FcgLgX7Pkmv0UDkHr3fN9yUR2S+1ZSyBMS8o4oyIchUlPoMdXAd1GeFFMgmB95tlX1QFtwnBsfrDqQURvUbmYK/7NPbykn519VMXzySvO84keBg0P1OihFrv0EwlyfxcVV/Y+7THj84dIOlztXDNYOLrXUC5G6GeXQsp3za+HYCR/opHEG03AKzhJo/UhwzOTB5+nruzUFelwVlOmM/PeE5kqJp9GV/3Bw4jY5ZCW98oCE6u+jFWn2xi5NRYxWtddXFZXnbfH3fnp2cN1s0Vua6Z7ldm7zAbglIERlJnKu/Y7Q="
+  "notes": "Listen laufen von selbst von neu zu alt: Neue Einträge kommen oben dazu statt ans Ende, mit den Pfeilen lässt sich weiter von Hand sortieren. Content-Typen können außerdem strikt nach dem Anlegedatum sortieren (orderBy mit field „created“). Importierte Einträge hängen weiter unten an.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.29.0.zip",
+  "sha256": "e5b9a2033c76fafacfa915eb5fc6a413248f89e63f4de2ef4ba538c87c2b97e2",
+  "opensslSignature": "dTOoz8eAQ+FeFkkqpU+dLdyKsm7ev4DXR/CefWRGYS6GKf99Opj4LpWrFPSnPhhaIHo2C9IPAgrloJLBfvmenKXMiD1MwEbOlcYL22vPsBEBXKcOEgLMDzK+EDNtCwDB2hGgyXhxU+ypNTXeRPaOKBQv9cYLOgz5zohH36azgjqlkweAeG2/Y9W2LYIGDNysod2k9S9975kUKlQg7XthRE2fgFY48HwdZ2zKwMVm0nC4m49JGmtMwn+rOZ9OlZUdBM7zpo5cnsoeT4FNyDYhzFrC5uTny9lRgeKPLhiuaAixgptnit5pGm4uHuoVg6YCGAEoZAsHWhME0Zu8bipI5wt331UD47l4nDNYHsohgiwSTty1j1s7AO2G5OK6hXWLnQ25dJwJiB1P28ijX5QgpINATO9yunrfVTXOyEBjqUY1UEr18AS83aY5ci3Ip3LLwSes9KD1vDxwIaL0rkMpgDRMAkfGB59j6o3v+FDQ14/TXAktFdrwyxhjZQF8ljVUqFvs6n8LV6hwik6Q4SIQNDgNVIC2xc5phcZ3nqEyB9wdaB8miP52j+oCdTRsGj1p2IechU5tkTeKSBZA/S4QaM2fzImLhArcXdW5qlYgnHc87eiUNVkvbJqh0l725aTTws0X2xhzmQr2ThK8HGzQyRTpPCpXdGNwVFz+z3fNtwA="
 }
