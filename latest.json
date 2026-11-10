@@ -1,9 +1,9 @@
 {
-  "version": "0.26.0",
-  "tag": "v0.26.0",
+  "version": "0.27.0",
+  "tag": "v0.27.0",
   "requiresConfirmation": false,
-  "notes": "Neues Plugin „Info-Hinweis“: Kurze Nachrichten wie „Wir sind im Betriebsurlaub“ oder „Wir bauen gerade um“ erscheinen auf jeder Seite unten links, auf Wunsch nur in einem Zeitraum, und lassen sich von Besuchern wegklicken.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.26.0.zip",
-  "sha256": "b1ca2e7a3449c706793b7952f56b1bf4ec23b71ee1e92173adf0209740cad113",
-  "opensslSignature": "WxysPtUxMzMuNEnTinnfWJwg9sPSUIO/GHzLpX35AFBBNIVM65HLlpwcqHHAzPfiA/vG3rOCckRE2DSBHGE4PDVVoBIQ0RDh3FS5d62qXT35WgeHGIrO2+34PPpLZQou+gObFQZl5UP7xrKtxQI0EY8P0H4jF3wZXDQF+xkXKr0wdqP2+TE6EEb440lQ3aaUulIbuUT9QOdcdwnvvvVXz/mxNex2k6N/WACyRmswbizZugQsUEejOsFysGVV3xSONbczb+KeK/vHXcKkDam5Yklz91jOgM3tK9RwEySsLpIlRxA0MaAAMEx2smDkhffBb9uwk1cKCysbbsS1Z1A2Fzpdt+OBewySvJs1HLI0TEd+k0VRK8xrh0sNZJ+Xgys4lZaAGtT1F83XnZPbPf7MZJAfELM9HrVlvkh1eLVx3YGO7g/cadlGkwxfCszLISCubBZIATOZkhdFGUxroQixRdyYUSHypGnrNsY/J1dNuVFY72yrtxm5swpvIYRZgt4aDaC+zMAqN3dfjaep4Nu2qoY9qD7cHR0HEXQMkBqE7bz4h20ct+mi8wHuvoutAW3G4wxjl13Qi1lHKjW1i+De0ciWyWZm55Ug+JftZtPha9Rx3UJLC9Q7XAcrHUgL49+B9E7qhgPFjyPyRSinK7r0+1a0rqaNnGpmG/MSGFa6zJM="
+  "notes": "Weiterleitungen für alte Adressen: Nach einem Umzug von einer anderen Website leitet LeBuild alte Seiten dauerhaft (301) auf die neuen weiter, damit Google-Treffer und Links nicht ins Leere führen. Seiten, die mit „/“ am Ende aufgerufen werden, leiten auf die Adresse ohne „/“ weiter.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.27.0.zip",
+  "sha256": "f32d201763a24105503c40dd0368a651062a61aab4991e0737de33014672dc0b",
+  "opensslSignature": "nJZmYgoQzYhhtATmaFJdLZOeuXrq/WIplrwIYljPe2PRtW3UTxmmISIoZwsXXxHoAw/A4P7Q0pkzBMubG89aIY1Z0BAC/weoZ0X6MZ0S6eMzWk17QDFk8o/8QSl8E95Ih4sleUGHqlg5NoYS810O3Lvo3eUDyKv10HskOFjj6GjrIYoBt0o8yS709GyHADP8LACHApmxJGzNC3NCsCMlJDs4/QI23ca0LWlB233JUDMgLx8qKGsjC1lmCXo6ZT7HdfqNyQfxyzimh1PmrBDNbnK1NJsEjlXfc+UpgZl5qkBm2xQkEXg39Oir6epx9kppCC6ArdPPyx/Mbmmu9Wo2aiPjIjHxsu65+2goE8/ZSG1hdWEhdGMOXwsFdBYDkE/9uJqHqH3eeuelzElzifzwltboKHfRpHKJFgg7Um6uS3UsvkoIhLQRfvX41zoB2rOnlWyC2OuKc0FxYxglIzHuT1X9j+eyPWs1x+J+mKxwwh1VLzww2EAla+H4Av58p8vv6NE2mB8lnLJqvAU7sawrnUFBJCw5sVqneIGCAXx1NcydxvAUlpOpW4bLfQFx2WoFLr0wOVHStj+W9zvLW2DLS06G0gnUnNKG/OEytCE8DSr7cPZQALmHljD47g+9oAtAV3xKSxIuNlaMn5BBKvg3lwk+KVhfrVZptJFy1jBYQjg="
 }
