@@ -1,9 +1,9 @@
 {
-  "version": "0.27.0",
-  "tag": "v0.27.0",
+  "version": "0.28.0",
+  "tag": "v0.28.0",
   "requiresConfirmation": false,
-  "notes": "Weiterleitungen für alte Adressen: Nach einem Umzug von einer anderen Website leitet LeBuild alte Seiten dauerhaft (301) auf die neuen weiter, damit Google-Treffer und Links nicht ins Leere führen. Seiten, die mit „/“ am Ende aufgerufen werden, leiten auf die Adresse ohne „/“ weiter.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.27.0.zip",
-  "sha256": "f32d201763a24105503c40dd0368a651062a61aab4991e0737de33014672dc0b",
-  "opensslSignature": "nJZmYgoQzYhhtATmaFJdLZOeuXrq/WIplrwIYljPe2PRtW3UTxmmISIoZwsXXxHoAw/A4P7Q0pkzBMubG89aIY1Z0BAC/weoZ0X6MZ0S6eMzWk17QDFk8o/8QSl8E95Ih4sleUGHqlg5NoYS810O3Lvo3eUDyKv10HskOFjj6GjrIYoBt0o8yS709GyHADP8LACHApmxJGzNC3NCsCMlJDs4/QI23ca0LWlB233JUDMgLx8qKGsjC1lmCXo6ZT7HdfqNyQfxyzimh1PmrBDNbnK1NJsEjlXfc+UpgZl5qkBm2xQkEXg39Oir6epx9kppCC6ArdPPyx/Mbmmu9Wo2aiPjIjHxsu65+2goE8/ZSG1hdWEhdGMOXwsFdBYDkE/9uJqHqH3eeuelzElzifzwltboKHfRpHKJFgg7Um6uS3UsvkoIhLQRfvX41zoB2rOnlWyC2OuKc0FxYxglIzHuT1X9j+eyPWs1x+J+mKxwwh1VLzww2EAla+H4Av58p8vv6NE2mB8lnLJqvAU7sawrnUFBJCw5sVqneIGCAXx1NcydxvAUlpOpW4bLfQFx2WoFLr0wOVHStj+W9zvLW2DLS06G0gnUnNKG/OEytCE8DSr7cPZQALmHljD47g+9oAtAV3xKSxIuNlaMn5BBKvg3lwk+KVhfrVZptJFy1jBYQjg="
+  "notes": "Info-Hinweis direkt auf der Website bearbeiten: Angemeldete, auch Redakteure, sehen den Hinweis unten auf jeder Seite und öffnen ihn per Klick zum Ändern. Ohne Hinweis steht dort ein Knopf zum Anlegen, weggeklickt ein Knopf zum Wiederaufklappen. Es gibt nur noch einen Hinweis; leerer Text schaltet ihn ab.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.28.0.zip",
+  "sha256": "413cca391fa3fc7b8af2ca6f467cfea78651af29817704d1459775ade38bc802",
+  "opensslSignature": "gSNC9TnPIJD6Ol7e0DAGixYjA0TNZ82Ncm+u65Q9wMJW2PN9zKK6ptAGLQ6Y1Frau+xx5R3YpxQ3XIgRsghuYoDOqFDopbIRHCQnSmj63dgLvg0jfd+8r5RGRjOTqmPpP374lRmPM/tk61Om71Pxsx+wYy06t6nydbfS9C95wC/E3/AbO409k1yLVNNGccNlH4sr0Q0NyFdseeP670Q42nfg98tzHIVzeOa6vAWXSk2cxi0i9BY4dWVuXcc3O0eeF+gmx3pDxh8yTNZ7wAUrZC14H2L9WSTju57jLgeRYX9OSPWAO1MgSnFmEXrCLAH97B8lOw7IA7aMYoyW+AnyWd4r30XelRsChjihWA6Nu1MVHvV3XZEtzq+ib+po0FcgLgX7Pkmv0UDkHr3fN9yUR2S+1ZSyBMS8o4oyIchUlPoMdXAd1GeFFMgmB95tlX1QFtwnBsfrDqQURvUbmYK/7NPbykn519VMXzySvO84keBg0P1OihFrv0EwlyfxcVV/Y+7THj84dIOlztXDNYOLrXUC5G6GeXQsp3za+HYCR/opHEG03AKzhJo/UhwzOTB5+nruzUFelwVlOmM/PeE5kqJp9GV/3Bw4jY5ZCW98oCE6u+jFWn2xi5NRYxWtddXFZXnbfH3fnp2cN1s0Vua6Z7ldm7zAbglIERlJnKu/Y7Q="
 }
