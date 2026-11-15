@@ -1,10 +1,10 @@
 {
-  "version": "0.30.0",
-  "tag": "v0.30.0",
+  "version": "0.31.0",
+  "tag": "v0.31.0",
   "requiresConfirmation": false,
   "minPhp": "8.2",
-  "notes": "PDFs lassen sich jetzt hochladen: Content-Typen und andere Plugins haben dafür ein Dateifeld, der Download-Block in Beiträgen nimmt ein PDF oder einen Link, und die Mediathek zeigt PDFs mit Status und räumt unbenutzte auf. Neu ist das Plugin PDF-Blätterer: Es zeigt ein PDF wie ein Heft zum Umblättern, mit Zoom und Vollbild, und die erste Seite als Titelbild. Kontaktformulare können aus einer Datei kommen (mehrstufig, mit Anhängen und Abhängigkeiten zwischen Feldern), geänderte Seiten meldet LeBuild nach dem Speichern an Bing und andere Suchmaschinen (IndexNow). Dazu viele Fehlerbehebungen und Absicherungen aus dem Audit (Uploads ohne Metadaten, Cookie-Banner, Router, Health-Check, Verwaltung und Seiten-Editor).",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.30.0.zip",
-  "sha256": "d4dc4d3ef0d8c2ab9fd610090ccc51c1c10f52024264ea41e9d195c9c76ca4e5",
-  "opensslSignature": "qd+4LBHH9RW9Yx+CxunWut82UO9XjmSWqiikrgIYSnTZmUMCOEHdghPI0k7udxgl5JymKVLVfJLGW8sXaRzTaD6hNrUVxcTNVo5a8RkM4sDb7Vh7VjgSp+mRduZputkjQiKtP+sWoSSCHPfE7bIHdoVssyjNSQpLK6qS/SY1MBuiRUxJ48qQeoMMl3bMtNg3GeSLkbBNeS04hBD+ClukuqjnrtdzTwIwD2YkwNz2geJh4BPvviBcs6XzdwT9ZnPH+KNnRIYgnWLJrmQAN5Kg23Rss1S+lVsgxbCD7tm5ZZYzHOq+7mcKxv1xBSdw2zZk/jRh4XaWu52fs6y367Q/dCHU7ANWBfqYYEKGfqjsP/X03eEpubRNopR0U5UDKxdPhc10H68lFM+mKrlPUzCBbLVRVsF/6bPYWrCZ6MzFqquJEN66CrkCTuIFW3lr10yrGD/G9V0RcKVYgmX9nf+Dol4i5W2CGX6mT6Uh2vIFnLuK8/homEDaMbcfrYFfTckrdI2PQLg3yk5Wz1dzTOov7VOOW+C2WaAIJGiJzZxPeY4Avgr8wiSRUlXLAEFS0MZIzK/vnCTcZWyCcAgHS5meOCYLjvN0ChLsMm4qA/PenvxTJ+CcJ2Kdhwv3MHxa1Y89/cI1VO3JpsqjE3HQX149698V8B5nmTdsdSi4L32sTr0="
+  "notes": "Listen der Content-Typen lassen sich jetzt nach einer Kategorie filtern und mit „Mehr laden“ seitenweise nachladen, auch ohne JavaScript und mit mehreren Listen auf einer Seite (je Liste eine data-id). Für Blogs gibt es eine Vorlage mit Kategorien, die der Kunde selbst anlegt; die Kategorie auf einer Karte kann direkt auf die gefilterte Liste verlinken. Gefilterte Adressen bekommen eine canonical-Adresse ohne Parameter. Das Plugin PDF-Blätterer heißt jetzt PDF Viewer.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.31.0.zip",
+  "sha256": "d894ae1c4aa7a704dfdf1261f835219a465afb5789753fad828fb2b340229ad9",
+  "opensslSignature": "WKWSULiC/Bn1c8CN0zz8kN+EWXV/Vyl8X2k7ztudRCL2SguD7z2UNAtvQHI7YRnAh6PEQFrHV/q9YBF+is6MHzP+11GdDZi75S395JJHR5qAqzUUXQk7/g68E57uwgoJ2DE1dJIaurwebbjjDrqsCRWxU89vyhB9zomGEFP4FDTlO933XafBjLGKBPGrdlw3CSYftW0WKnwKHKapZSZLMFqnA+JoAnzPDfHXvl30rOiEJnGZIeYf2N/MZN3ZwrRRr4LRNCdKK1VLNTDxK30fZfhu6/ooKXMpmZRVJxEEaS39K9uoDBY19qHIsgfkkWCOjMxyT3OvDItBZaVG310jXY3DyTTZZ6yhuS/Jf6oTK3uGEseaEaoWQB79sDokseP9pvfdPPfq/eSIyQAWTRFPegcg00dKIzuHqRNRl6sZICp3p+3G0zRDZbgwYXx6nSsV6Bc16/mbg4BXJso8hO9JwxBgRvbmRPu0bmwlrDVdqjzgn2xTHJOKUyySX/+v3cs5apXRLW5U2cgTSmhsk0HHi3XTHZ0OV3xd8R+t3bjbDghGqlWpCA34LBEKcUJg0oua1Gi9AoUzLXmjURe0P/aw0xZ8oGxju5EthwFVyQFFgiBO5ySSPyFeGA+FZDWshrV9+XZrmpgtVbaKZuO3AuhydKDTVFP1vV4NmkUQk6zAZbc="
 }
