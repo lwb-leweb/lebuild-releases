@@ -1,9 +1,10 @@
 {
-  "version": "0.29.0",
-  "tag": "v0.29.0",
+  "version": "0.30.0",
+  "tag": "v0.30.0",
   "requiresConfirmation": false,
-  "notes": "Listen laufen von selbst von neu zu alt: Neue Einträge kommen oben dazu statt ans Ende, mit den Pfeilen lässt sich weiter von Hand sortieren. Content-Typen können außerdem strikt nach dem Anlegedatum sortieren (orderBy mit field „created“). Importierte Einträge hängen weiter unten an.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.29.0.zip",
-  "sha256": "e5b9a2033c76fafacfa915eb5fc6a413248f89e63f4de2ef4ba538c87c2b97e2",
-  "opensslSignature": "dTOoz8eAQ+FeFkkqpU+dLdyKsm7ev4DXR/CefWRGYS6GKf99Opj4LpWrFPSnPhhaIHo2C9IPAgrloJLBfvmenKXMiD1MwEbOlcYL22vPsBEBXKcOEgLMDzK+EDNtCwDB2hGgyXhxU+ypNTXeRPaOKBQv9cYLOgz5zohH36azgjqlkweAeG2/Y9W2LYIGDNysod2k9S9975kUKlQg7XthRE2fgFY48HwdZ2zKwMVm0nC4m49JGmtMwn+rOZ9OlZUdBM7zpo5cnsoeT4FNyDYhzFrC5uTny9lRgeKPLhiuaAixgptnit5pGm4uHuoVg6YCGAEoZAsHWhME0Zu8bipI5wt331UD47l4nDNYHsohgiwSTty1j1s7AO2G5OK6hXWLnQ25dJwJiB1P28ijX5QgpINATO9yunrfVTXOyEBjqUY1UEr18AS83aY5ci3Ip3LLwSes9KD1vDxwIaL0rkMpgDRMAkfGB59j6o3v+FDQ14/TXAktFdrwyxhjZQF8ljVUqFvs6n8LV6hwik6Q4SIQNDgNVIC2xc5phcZ3nqEyB9wdaB8miP52j+oCdTRsGj1p2IechU5tkTeKSBZA/S4QaM2fzImLhArcXdW5qlYgnHc87eiUNVkvbJqh0l725aTTws0X2xhzmQr2ThK8HGzQyRTpPCpXdGNwVFz+z3fNtwA="
+  "minPhp": "8.2",
+  "notes": "PDFs lassen sich jetzt hochladen: Content-Typen und andere Plugins haben dafür ein Dateifeld, der Download-Block in Beiträgen nimmt ein PDF oder einen Link, und die Mediathek zeigt PDFs mit Status und räumt unbenutzte auf. Neu ist das Plugin PDF-Blätterer: Es zeigt ein PDF wie ein Heft zum Umblättern, mit Zoom und Vollbild, und die erste Seite als Titelbild. Kontaktformulare können aus einer Datei kommen (mehrstufig, mit Anhängen und Abhängigkeiten zwischen Feldern), geänderte Seiten meldet LeBuild nach dem Speichern an Bing und andere Suchmaschinen (IndexNow). Dazu viele Fehlerbehebungen und Absicherungen aus dem Audit (Uploads ohne Metadaten, Cookie-Banner, Router, Health-Check, Verwaltung und Seiten-Editor).",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.30.0.zip",
+  "sha256": "d4dc4d3ef0d8c2ab9fd610090ccc51c1c10f52024264ea41e9d195c9c76ca4e5",
+  "opensslSignature": "qd+4LBHH9RW9Yx+CxunWut82UO9XjmSWqiikrgIYSnTZmUMCOEHdghPI0k7udxgl5JymKVLVfJLGW8sXaRzTaD6hNrUVxcTNVo5a8RkM4sDb7Vh7VjgSp+mRduZputkjQiKtP+sWoSSCHPfE7bIHdoVssyjNSQpLK6qS/SY1MBuiRUxJ48qQeoMMl3bMtNg3GeSLkbBNeS04hBD+ClukuqjnrtdzTwIwD2YkwNz2geJh4BPvviBcs6XzdwT9ZnPH+KNnRIYgnWLJrmQAN5Kg23Rss1S+lVsgxbCD7tm5ZZYzHOq+7mcKxv1xBSdw2zZk/jRh4XaWu52fs6y367Q/dCHU7ANWBfqYYEKGfqjsP/X03eEpubRNopR0U5UDKxdPhc10H68lFM+mKrlPUzCBbLVRVsF/6bPYWrCZ6MzFqquJEN66CrkCTuIFW3lr10yrGD/G9V0RcKVYgmX9nf+Dol4i5W2CGX6mT6Uh2vIFnLuK8/homEDaMbcfrYFfTckrdI2PQLg3yk5Wz1dzTOov7VOOW+C2WaAIJGiJzZxPeY4Avgr8wiSRUlXLAEFS0MZIzK/vnCTcZWyCcAgHS5meOCYLjvN0ChLsMm4qA/PenvxTJ+CcJ2Kdhwv3MHxa1Y89/cI1VO3JpsqjE3HQX149698V8B5nmTdsdSi4L32sTr0="
 }
