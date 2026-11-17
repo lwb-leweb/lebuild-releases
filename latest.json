@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
-  "tag": "v1.0.0",
-  "requiresConfirmation": true,
+  "version": "1.0.1",
+  "tag": "v1.0.1",
+  "requiresConfirmation": false,
   "minPhp": "8.2",
-  "notes": "LeBuild 1.0 räumt den Aufbau auf: Der Kern liegt in backend/, frontend/ und webroot/, die Website des Kunden in website/public/, alle Daten und Zugangsdaten in website/private/. Installationen im alten Aufbau (bis 0.31.0) spielen dieses Release nicht von selbst ein, der Umstieg geht von Hand: Code per FTP gegen das Release tauschen, dann config.php nach website/setup.php, content/ nach website/private/ und public/site/ nach website/public/ verschieben (ops/README.md, „Alten Aufbau umstellen“). Die Adressen der Website bleiben gleich; eigenes Website-PHP, das Dateien aus core/ lädt, muss angepasst werden.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.0.0.zip",
-  "sha256": "800667699326001300c30cb4ca7fd917a3e8ba5d4baac118d225101a04561351",
-  "opensslSignature": "NHgg3wCVSWbu1gIMR9k1v4x5fmMpI06xhiN6hRG+8UOicseVjU4QTRo05TRRn+4PU4w4hdymC/0n6hBPYYrCQI5dCrMbfTm1AmnsEfMITPepx/OG+Uu0FCXPTFDwcFkyrmlPnuAELHqLW/d5iiYAFb0txUNfgqC9ttliz7Y1V6PGqKCklXT9gV+lrAZt/UTC1ULN7xaOKnCnTC5KYLCxjoiN5zCHZaEGsyc9bgRctjAv17hD7tGOtDinkjHewEki1tvyS6QmNR4yKWyRihV/N9ogfJWC/oe4z7WwujdUTOQYfcdWPu97tCY6J6jjA5W+pvUzEoaMiW7ln1ecMIICiYrij+OONyx21QT+E75dxMW6ypXBJ/+FFjp86E0XT3jsIPX6bAANlZR8bxU1Wg5LTMeIRYizFysQzLuYqXqcOYafhwls/6rNpXr5b3UKqAphSbi2DuiXJzi5MzIRZJQaq8UP60Gk4+biJ8/POgYZibRyvV8ZkxDDzhDuj8hE3u33N1kqgjY/tYx3nSz0ee9ggg+7aYCaJj3cHxQ2tlstPHDvcRluoQ6RdYXm9FxNL75Mr2K17i00aqY5CEYzJfhQwI1ejp0NwlV02gZcc0OrACVfsJiS4SEtenMk0sbu2v1+xft/VqmNk6CHoW63s993ic7LD87DOQ0p45hKQzfxuYc="
+  "notes": "Aufräumen nach dem Umstieg auf LeBuild 1.0: Der Kern erkennt den früheren Aufbau (config.php, content/, public/site/) nicht mehr eigens, die Hinweise und Sperren dazu sind entfernt. Für Websites im neuen Aufbau ändert sich nichts.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.0.1.zip",
+  "sha256": "bd79396c967bc51d2a89c4ca60a73ecbd0020c4361d942f6f7aeaf18e7fefd18",
+  "opensslSignature": "dXTasfO/FEOD8ACein+tP/rAy9exKhXNcByei+HbcwfsBUD+mr+CTLDNMhpkXDA9HLWk04h7Algx0j9bBuPYCsdKwHtE8QnljzaWMQUOFyw2fBZIBs2YAFsZSqXNv9Y+u3KHgbT/rcu9bE19jCFcdMbFsDrwNx+AgHBs3bUWbYsXyECL0SIQ0xHxXtl62OSqUZYJy0AEAoARqYRRWJZ35m37XOLmpCWWONtH6uRBvd4DVQ5xlYuoui29A9CHLkSQt28pwTm/bkGxsPJ1ozINW0BxXi1zKnN/R+zQPFP0r3eMePYrIZ134M2RH3pUHpqsyJ9pV/vQrai0ErmrFDelnw9SHJgzvEsPTkQWg6Z8Urn0+SLyGdYQlZHtLf2AdvjXfsSqzBodWtt+UUJkzP1HD/qXcfyNNxsNTb8WgWuEuS9YDBYIBUj0NTHlOw13QFeQDNGb/1Tplfitl3oE08EQyydNmMJkY5cqR1H+2XDz7LCDC8avHpXk0EAY5UIEm0ExKTZVCyg3CsL9MlMvgQoGiXp5jAG1Isa+gJmjnV0fAKXYAsNylDx5X7f3VVzdCoEpo8RpqPOOUKNcIqMd27/wpJp4vvQSxKZr0sQJ73QJlWzy5Alemaj9pVY04UQ/7lpSrNRWHgCR/vQtS7VBbE/1RBZEC3JojuB/qXjWGvs7+Iw="
 }
