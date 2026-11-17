@@ -1,10 +1,10 @@
 {
-  "version": "0.31.0",
-  "tag": "v0.31.0",
-  "requiresConfirmation": false,
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "requiresConfirmation": true,
   "minPhp": "8.2",
-  "notes": "Listen der Content-Typen lassen sich jetzt nach einer Kategorie filtern und mit „Mehr laden“ seitenweise nachladen, auch ohne JavaScript und mit mehreren Listen auf einer Seite (je Liste eine data-id). Für Blogs gibt es eine Vorlage mit Kategorien, die der Kunde selbst anlegt; die Kategorie auf einer Karte kann direkt auf die gefilterte Liste verlinken. Gefilterte Adressen bekommen eine canonical-Adresse ohne Parameter. Das Plugin PDF-Blätterer heißt jetzt PDF Viewer.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v0.31.0.zip",
-  "sha256": "d894ae1c4aa7a704dfdf1261f835219a465afb5789753fad828fb2b340229ad9",
-  "opensslSignature": "WKWSULiC/Bn1c8CN0zz8kN+EWXV/Vyl8X2k7ztudRCL2SguD7z2UNAtvQHI7YRnAh6PEQFrHV/q9YBF+is6MHzP+11GdDZi75S395JJHR5qAqzUUXQk7/g68E57uwgoJ2DE1dJIaurwebbjjDrqsCRWxU89vyhB9zomGEFP4FDTlO933XafBjLGKBPGrdlw3CSYftW0WKnwKHKapZSZLMFqnA+JoAnzPDfHXvl30rOiEJnGZIeYf2N/MZN3ZwrRRr4LRNCdKK1VLNTDxK30fZfhu6/ooKXMpmZRVJxEEaS39K9uoDBY19qHIsgfkkWCOjMxyT3OvDItBZaVG310jXY3DyTTZZ6yhuS/Jf6oTK3uGEseaEaoWQB79sDokseP9pvfdPPfq/eSIyQAWTRFPegcg00dKIzuHqRNRl6sZICp3p+3G0zRDZbgwYXx6nSsV6Bc16/mbg4BXJso8hO9JwxBgRvbmRPu0bmwlrDVdqjzgn2xTHJOKUyySX/+v3cs5apXRLW5U2cgTSmhsk0HHi3XTHZ0OV3xd8R+t3bjbDghGqlWpCA34LBEKcUJg0oua1Gi9AoUzLXmjURe0P/aw0xZ8oGxju5EthwFVyQFFgiBO5ySSPyFeGA+FZDWshrV9+XZrmpgtVbaKZuO3AuhydKDTVFP1vV4NmkUQk6zAZbc="
+  "notes": "LeBuild 1.0 räumt den Aufbau auf: Der Kern liegt in backend/, frontend/ und webroot/, die Website des Kunden in website/public/, alle Daten und Zugangsdaten in website/private/. Installationen im alten Aufbau (bis 0.31.0) spielen dieses Release nicht von selbst ein, der Umstieg geht von Hand: Code per FTP gegen das Release tauschen, dann config.php nach website/setup.php, content/ nach website/private/ und public/site/ nach website/public/ verschieben (ops/README.md, „Alten Aufbau umstellen“). Die Adressen der Website bleiben gleich; eigenes Website-PHP, das Dateien aus core/ lädt, muss angepasst werden.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.0.0.zip",
+  "sha256": "800667699326001300c30cb4ca7fd917a3e8ba5d4baac118d225101a04561351",
+  "opensslSignature": "NHgg3wCVSWbu1gIMR9k1v4x5fmMpI06xhiN6hRG+8UOicseVjU4QTRo05TRRn+4PU4w4hdymC/0n6hBPYYrCQI5dCrMbfTm1AmnsEfMITPepx/OG+Uu0FCXPTFDwcFkyrmlPnuAELHqLW/d5iiYAFb0txUNfgqC9ttliz7Y1V6PGqKCklXT9gV+lrAZt/UTC1ULN7xaOKnCnTC5KYLCxjoiN5zCHZaEGsyc9bgRctjAv17hD7tGOtDinkjHewEki1tvyS6QmNR4yKWyRihV/N9ogfJWC/oe4z7WwujdUTOQYfcdWPu97tCY6J6jjA5W+pvUzEoaMiW7ln1ecMIICiYrij+OONyx21QT+E75dxMW6ypXBJ/+FFjp86E0XT3jsIPX6bAANlZR8bxU1Wg5LTMeIRYizFysQzLuYqXqcOYafhwls/6rNpXr5b3UKqAphSbi2DuiXJzi5MzIRZJQaq8UP60Gk4+biJ8/POgYZibRyvV8ZkxDDzhDuj8hE3u33N1kqgjY/tYx3nSz0ee9ggg+7aYCaJj3cHxQ2tlstPHDvcRluoQ6RdYXm9FxNL75Mr2K17i00aqY5CEYzJfhQwI1ejp0NwlV02gZcc0OrACVfsJiS4SEtenMk0sbu2v1+xft/VqmNk6CHoW63s993ic7LD87DOQ0p45hKQzfxuYc="
 }
