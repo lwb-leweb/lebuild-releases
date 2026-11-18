@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
-  "tag": "v1.0.1",
+  "version": "1.1.0",
+  "tag": "v1.1.0",
   "requiresConfirmation": false,
   "minPhp": "8.2",
-  "notes": "Aufräumen nach dem Umstieg auf LeBuild 1.0: Der Kern erkennt den früheren Aufbau (config.php, content/, public/site/) nicht mehr eigens, die Hinweise und Sperren dazu sind entfernt. Für Websites im neuen Aufbau ändert sich nichts.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.0.1.zip",
-  "sha256": "bd79396c967bc51d2a89c4ca60a73ecbd0020c4361d942f6f7aeaf18e7fefd18",
-  "opensslSignature": "dXTasfO/FEOD8ACein+tP/rAy9exKhXNcByei+HbcwfsBUD+mr+CTLDNMhpkXDA9HLWk04h7Algx0j9bBuPYCsdKwHtE8QnljzaWMQUOFyw2fBZIBs2YAFsZSqXNv9Y+u3KHgbT/rcu9bE19jCFcdMbFsDrwNx+AgHBs3bUWbYsXyECL0SIQ0xHxXtl62OSqUZYJy0AEAoARqYRRWJZ35m37XOLmpCWWONtH6uRBvd4DVQ5xlYuoui29A9CHLkSQt28pwTm/bkGxsPJ1ozINW0BxXi1zKnN/R+zQPFP0r3eMePYrIZ134M2RH3pUHpqsyJ9pV/vQrai0ErmrFDelnw9SHJgzvEsPTkQWg6Z8Urn0+SLyGdYQlZHtLf2AdvjXfsSqzBodWtt+UUJkzP1HD/qXcfyNNxsNTb8WgWuEuS9YDBYIBUj0NTHlOw13QFeQDNGb/1Tplfitl3oE08EQyydNmMJkY5cqR1H+2XDz7LCDC8avHpXk0EAY5UIEm0ExKTZVCyg3CsL9MlMvgQoGiXp5jAG1Isa+gJmjnV0fAKXYAsNylDx5X7f3VVzdCoEpo8RpqPOOUKNcIqMd27/wpJp4vvQSxKZr0sQJ73QJlWzy5Alemaj9pVY04UQ/7lpSrNRWHgCR/vQtS7VBbE/1RBZEC3JojuB/qXjWGvs7+Iw="
+  "notes": "Plugins können ihre Tabellen jetzt mit einem Update erweitern: Schema-Änderungen hängen an der Plugin-Version und laufen auf bestehenden Websites nach dem Update von selbst nach. Scheitert eine Änderung, zeigen Systemprüfung und Dashboard das an, bis dahin ruht nur das betroffene Plugin. Für bestehende Websites ändert sich sonst nichts.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.1.0.zip",
+  "sha256": "4e378cb763299fa1e942b67237a8ea6d4d9fe4c6d5fb96e95a26c3200188c322",
+  "opensslSignature": "qOZJcPk2WFj+jvAZEyO5pXDCUBMwL1F8k2wnSxJdaHdyMJlJ+q2uu8Gxmhy4xClnmbvzQta1bk2GofR0KyfWRz8nah3RyUS3r9I8F0tYn2cGNwrfAKIectS+k/QXet/IkA6L/CoNAYwV/3npRPBxN8Jp+WeKQ6MLj8CMwF+dhkmkERb66v0Mc5K0tFmrqW8nROq9SMYAphJAKY+rXx/ICxPEw/neo2n5x0ZdnaXx8log0vLORSrFdCsLZ/sP0bhCyzN3SLYA+8yxpA5gHov4Xc/0+7i+XHC1+/9fF7Nl38AI8f1cfkr+buhoso7zBz+PE00lzqLoFIGIliUd6cHLx96FC0SUicbsa9PNfrz7DtC323rH08i/hi0E8NIoXaqniC1CuH/sIiPbC908NAuNixMJpctB1NW2QOQ5s8JmMC7cx4i7irSd3xNLRJYK9nQmOfYyNQasH8ClV8TosVsGwgz3ZONhcbjUycLVP5b0SAINvWTrpihYAbCVAjXR7MM+ctik2QAF2fw51Mu8/lnMZvu2jSWO1vwIMcQa2bV/KaL2fgpcJk7CB5xGaTUO5NJPCP8nCHxj1leVYOAvyYqJv3ghMgiKLfy2nfu70/X6Ysm9s66HuZK7ycEGmtcGKzKmZHL6j7lnBFm7SC2y5FgBFFoO2MTv6Du1twzyX+PaJf4="
 }
