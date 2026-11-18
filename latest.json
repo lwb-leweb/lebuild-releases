@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
-  "tag": "v1.1.0",
+  "version": "1.1.1",
+  "tag": "v1.1.1",
   "requiresConfirmation": false,
   "minPhp": "8.2",
-  "notes": "Plugins können ihre Tabellen jetzt mit einem Update erweitern: Schema-Änderungen hängen an der Plugin-Version und laufen auf bestehenden Websites nach dem Update von selbst nach. Scheitert eine Änderung, zeigen Systemprüfung und Dashboard das an, bis dahin ruht nur das betroffene Plugin. Für bestehende Websites ändert sich sonst nichts.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.1.0.zip",
-  "sha256": "4e378cb763299fa1e942b67237a8ea6d4d9fe4c6d5fb96e95a26c3200188c322",
-  "opensslSignature": "qOZJcPk2WFj+jvAZEyO5pXDCUBMwL1F8k2wnSxJdaHdyMJlJ+q2uu8Gxmhy4xClnmbvzQta1bk2GofR0KyfWRz8nah3RyUS3r9I8F0tYn2cGNwrfAKIectS+k/QXet/IkA6L/CoNAYwV/3npRPBxN8Jp+WeKQ6MLj8CMwF+dhkmkERb66v0Mc5K0tFmrqW8nROq9SMYAphJAKY+rXx/ICxPEw/neo2n5x0ZdnaXx8log0vLORSrFdCsLZ/sP0bhCyzN3SLYA+8yxpA5gHov4Xc/0+7i+XHC1+/9fF7Nl38AI8f1cfkr+buhoso7zBz+PE00lzqLoFIGIliUd6cHLx96FC0SUicbsa9PNfrz7DtC323rH08i/hi0E8NIoXaqniC1CuH/sIiPbC908NAuNixMJpctB1NW2QOQ5s8JmMC7cx4i7irSd3xNLRJYK9nQmOfYyNQasH8ClV8TosVsGwgz3ZONhcbjUycLVP5b0SAINvWTrpihYAbCVAjXR7MM+ctik2QAF2fw51Mu8/lnMZvu2jSWO1vwIMcQa2bV/KaL2fgpcJk7CB5xGaTUO5NJPCP8nCHxj1leVYOAvyYqJv3ghMgiKLfy2nfu70/X6Ysm9s66HuZK7ycEGmtcGKzKmZHL6j7lnBFm7SC2y5FgBFFoO2MTv6Du1twzyX+PaJf4="
+  "notes": "Plugins können ihre Tabellen jetzt mit einem Update erweitern: Schema-Änderungen hängen an der Plugin-Version und laufen auf bestehenden Websites nach dem Update von selbst nach. Scheitert eine Änderung, zeigen Systemprüfung und Dashboard das an, bis dahin ruht nur das betroffene Plugin. Behoben: Kommen bei einer neuen Website mehrere Besucher gleichzeitig, werden die Startpakete jetzt zuverlässig eingespielt.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.1.1.zip",
+  "sha256": "6959e43ae25a75c53016b9601bcc76ddfb2dce3d8030cb8b04309e678dfadefc",
+  "opensslSignature": "jqXEd2WAm7wSqHT45MferHaBMmBFYWQ0Cw2DhQfbwF4B2kXdqMp8LI6F+nw96WF+ivDX1dN17GU1lEsXy44AcoVwf1NQdpQZCiykj9DGqPi04d6lTNR8UYzfYP76TP/Asn8DXIs5/bssf7BQQG7vTQZmu0CC2zE+SrU1v9rC4cc2UE8PfAtJEz76xKYD78FI1txobvuQCkvFXfOVB8Mov9F8Ys9/CU1ElHEUZBhNKaas/ZeYrP3Gwi8IxT7lHKH5rbsi41r0QwGI9d59tIjOBxuLEywBQFQkxxfr5oVC7YxI7RMdFt44FOde1wCVhun+/2c2/MtA3qh8Cz8z7eB7E1o2SUVshEJ/3wTSh7UyA+0NqrpWaiSiG0r+jWGwG/lbyxkSCwNcRdDJ04Wiuk4PGixX8PEplI4jACoNy+gtM822RIB6s8F33Tc1LDH9wO/nw5ZQ2hlYAqw7i2oEXoNl04MGbRuPc9EUNtNK9lJlmP7MFswWRTd2ByYWKNIsg1KV6ohZ1WHOEpb5R+Kuf0MF1FeoUCV2FXGVZ/8RsqI0kOG46KFHCEKsMNmsDgebtnt8Zw/maYVUdkEoJl/1IiAXKL6Gfw8wSQYxL2pCZ2CD8ko+KuDb/xEi5O6qFTueeEKZErR0b2iYn7PP8o7ekaKP8r+b/YWU3vK9Lqb18zzrea4="
 }
