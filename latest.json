@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
-  "tag": "v1.2.0",
+  "version": "1.3.0",
+  "tag": "v1.3.0",
   "requiresConfirmation": false,
   "minPhp": "8.2",
-  "notes": "Bilder lassen sich jetzt direkt im Bild zuschneiden und mit einem Fokuspunkt versehen, der das Wichtige in jedem Rahmen sichtbar hält: auf der Seite im neuen Panel „Bild“ und in jedem Bildfeld der Einträge, auch in Zeilen, Blöcken und im Bildraster. Kleine Vorschauen zeigen, wie das Bild auf Desktop, Tablet und Handy an seinen Stellen aussieht. Bilder werden nur so groß ausgeliefert, wie die Website sie braucht, das Original bleibt erhalten. Bestehende Websites bekommen die neuen Möglichkeiten mit „Markierungen aktualisieren“ in der Seitenliste.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.2.0.zip",
-  "sha256": "1a2f864c32a3250c989ac4f78d3f9f8492c0b43acfe544ab80bd09c134469814",
-  "opensslSignature": "LulyUA5Sqz9utw4G/+3DvbI7qNGpZzGOvRTrtNKPMGT7Kv+d+8a9mspBPEUQhXm+bjmmBHn59FKDQFERhNYysX5TlZA9qJwmbatlc8UBa2sWngiTj8nXyAz3vKEaGlByzHynaXcLBE9tTh7oigI4duaPcgB5aDgS18Diza6fjtFYx/GHTC8qtOLxcE5Uqm+kHZ4HaWPxFfb9rZSyU61daWzDHLsRIj6uk1miju2NyO8Yebf3oPc1GXqG124Ojl8o/V1Gn4zUHI53kb/S4INyfM4SnaAwcyPrNX0qSXlnANTtB9HPl4FsVgTHDOxtccQs8p7tl3snkvwdBpYEfMt8qxjS4Bznl4O7wo7zdte6NSyhc3Ql7FkAs2ollu+RRyXI9AkOSr00FX1fa9mR/UeJ+NUnIhsIrFeoquhAnaFJofaCotH+tMVY6hnOqKnso4lPWXXq5Q39P+lUQernZ38zjBQBXzKOjnE60kwMR4btllaznPT/UsPa6QmRBmbOOQELAO8HwH6q/nDrvrBqUT0N5o1FNB6g/siDinXLUSDTtcz3vO8aMrIFoAgVnJKwh/sgcYf0GjlVccjyE6fL9aOXVSTLm3CgbRIPiLB6G3Z36jkfmHvH7SwvfnkqQPaxr9Zm+KYRaRPNady3Q+xq2QdtqgNjPA2AJ65H6nIzYJIdsmE="
+  "notes": "Einträge lassen sich jetzt kopieren: auf der Seite mit dem neuen Knopf „Kopieren“ am Eintrag und in der Verwaltung in jeder Zeile. Das Formular öffnet als „Kopie: …“ mit allen Werten des Originals, gespeichert wird ein neuer Eintrag direkt hinter dem Original; Abbrechen legt nichts an. In der Verwaltung sind die Aktionen einer Zeile am Handy ohne seitliches Wischen erreichbar.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.3.0.zip",
+  "sha256": "435c160f18a5d517ca0e920c30476b86229f00b28819471f7b7923af7f6c228e",
+  "opensslSignature": "sDTBhwkDF0BMnjDR/DQRvBbs/xqvOjHF1kZDzNal7ehIoGWxU1i4QzmzPOSe/Ai7G0yDXiqSf57H/U8gIrobFoSHexUZBgkA3ywXfzlsbC+4p/WU0fvx93JY/ghUOTavutnvBW+JLfXU2j568XEJm+XUYcuLdIBU+a4CnfLs3HdqVzbRrksng0MokMuT/jzFSm65Lu6fD6n+/WteYn+WotFwMUVmtiC4KLws+b5FbVf/CRQMEVQGqccateYZdXs85N8Nqh33J6JVM2lQbD5zi24SCW30tLCZFB0YUkF4wwKNtwPY+zP06oNMmPMgYuxEiS+SL4M0ewN4F/Jls/QVR6TIAxJpSJBL0YqbAyPycLXw3pBrGZYLH9t4z4YZWdKnP8hnjBY9IudruW13Pe2kLx8tQzFoUHlmXgmVx//O9cnOIh2s54d5Va+sB24VCamf37SnJmPreybSuv+exuJIs+PjHVq4GJO9zAgEz0SQ2WepqYZgdr32s9G8KQHwpRMk7I5BvHSZtj49kxyzOWycb4wrOqJp3bdHquXdJOk8Q6LvxIW6d4RxzKr/CBz0YtshHjZnar36G927ZJ+PmJfqXxR/vkLzA/XvwTKl1I9nE5qHdTD3dDjRDIP/CtlGuYFPKQMh+8OnKlEJd8XYtmPJUyS3zCkZf+F9FKOhhprtRG0="
 }
