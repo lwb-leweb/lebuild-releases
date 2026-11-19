@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
-  "tag": "v1.1.1",
+  "version": "1.2.0",
+  "tag": "v1.2.0",
   "requiresConfirmation": false,
   "minPhp": "8.2",
-  "notes": "Plugins können ihre Tabellen jetzt mit einem Update erweitern: Schema-Änderungen hängen an der Plugin-Version und laufen auf bestehenden Websites nach dem Update von selbst nach. Scheitert eine Änderung, zeigen Systemprüfung und Dashboard das an, bis dahin ruht nur das betroffene Plugin. Behoben: Kommen bei einer neuen Website mehrere Besucher gleichzeitig, werden die Startpakete jetzt zuverlässig eingespielt.",
-  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.1.1.zip",
-  "sha256": "6959e43ae25a75c53016b9601bcc76ddfb2dce3d8030cb8b04309e678dfadefc",
-  "opensslSignature": "jqXEd2WAm7wSqHT45MferHaBMmBFYWQ0Cw2DhQfbwF4B2kXdqMp8LI6F+nw96WF+ivDX1dN17GU1lEsXy44AcoVwf1NQdpQZCiykj9DGqPi04d6lTNR8UYzfYP76TP/Asn8DXIs5/bssf7BQQG7vTQZmu0CC2zE+SrU1v9rC4cc2UE8PfAtJEz76xKYD78FI1txobvuQCkvFXfOVB8Mov9F8Ys9/CU1ElHEUZBhNKaas/ZeYrP3Gwi8IxT7lHKH5rbsi41r0QwGI9d59tIjOBxuLEywBQFQkxxfr5oVC7YxI7RMdFt44FOde1wCVhun+/2c2/MtA3qh8Cz8z7eB7E1o2SUVshEJ/3wTSh7UyA+0NqrpWaiSiG0r+jWGwG/lbyxkSCwNcRdDJ04Wiuk4PGixX8PEplI4jACoNy+gtM822RIB6s8F33Tc1LDH9wO/nw5ZQ2hlYAqw7i2oEXoNl04MGbRuPc9EUNtNK9lJlmP7MFswWRTd2ByYWKNIsg1KV6ohZ1WHOEpb5R+Kuf0MF1FeoUCV2FXGVZ/8RsqI0kOG46KFHCEKsMNmsDgebtnt8Zw/maYVUdkEoJl/1IiAXKL6Gfw8wSQYxL2pCZ2CD8ko+KuDb/xEi5O6qFTueeEKZErR0b2iYn7PP8o7ekaKP8r+b/YWU3vK9Lqb18zzrea4="
+  "notes": "Bilder lassen sich jetzt direkt im Bild zuschneiden und mit einem Fokuspunkt versehen, der das Wichtige in jedem Rahmen sichtbar hält: auf der Seite im neuen Panel „Bild“ und in jedem Bildfeld der Einträge, auch in Zeilen, Blöcken und im Bildraster. Kleine Vorschauen zeigen, wie das Bild auf Desktop, Tablet und Handy an seinen Stellen aussieht. Bilder werden nur so groß ausgeliefert, wie die Website sie braucht, das Original bleibt erhalten. Bestehende Websites bekommen die neuen Möglichkeiten mit „Markierungen aktualisieren“ in der Seitenliste.",
+  "zipUrl": "https://raw.githubusercontent.com/lwb-leweb/lebuild-releases/main/releases/v1.2.0.zip",
+  "sha256": "1a2f864c32a3250c989ac4f78d3f9f8492c0b43acfe544ab80bd09c134469814",
+  "opensslSignature": "LulyUA5Sqz9utw4G/+3DvbI7qNGpZzGOvRTrtNKPMGT7Kv+d+8a9mspBPEUQhXm+bjmmBHn59FKDQFERhNYysX5TlZA9qJwmbatlc8UBa2sWngiTj8nXyAz3vKEaGlByzHynaXcLBE9tTh7oigI4duaPcgB5aDgS18Diza6fjtFYx/GHTC8qtOLxcE5Uqm+kHZ4HaWPxFfb9rZSyU61daWzDHLsRIj6uk1miju2NyO8Yebf3oPc1GXqG124Ojl8o/V1Gn4zUHI53kb/S4INyfM4SnaAwcyPrNX0qSXlnANTtB9HPl4FsVgTHDOxtccQs8p7tl3snkvwdBpYEfMt8qxjS4Bznl4O7wo7zdte6NSyhc3Ql7FkAs2ollu+RRyXI9AkOSr00FX1fa9mR/UeJ+NUnIhsIrFeoquhAnaFJofaCotH+tMVY6hnOqKnso4lPWXXq5Q39P+lUQernZ38zjBQBXzKOjnE60kwMR4btllaznPT/UsPa6QmRBmbOOQELAO8HwH6q/nDrvrBqUT0N5o1FNB6g/siDinXLUSDTtcz3vO8aMrIFoAgVnJKwh/sgcYf0GjlVccjyE6fL9aOXVSTLm3CgbRIPiLB6G3Z36jkfmHvH7SwvfnkqQPaxr9Zm+KYRaRPNady3Q+xq2QdtqgNjPA2AJ65H6nIzYJIdsmE="
 }
